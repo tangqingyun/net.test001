@@ -27,8 +27,8 @@ namespace Login51CTO
                     return GetDownPeas();
                 }
                 IHTMLElementCollection inputCollection = doc.getElementsByTagName("input");
-                string uname = "tamny@sohu.com";
-                string upwd = "tangqingyun";
+                string uname = "";
+                string upwd = "";
                 HTMLInputElement button = null;
                 foreach (HTMLInputElement element in inputCollection)
                 {
