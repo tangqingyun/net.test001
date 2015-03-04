@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2289FFE3-BCE7-4B65-8DF7-4ADF91A4EAE4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JUnit</RootNamespace>
+    <AssemblyName>JUnit</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <ReferencePath>$(ProgramFiles)\Common Files\microsoft shared\VSTT\$(VisualStudioVersion)\UITestExtensionPackages</ReferencePath>
+    <IsCodedUITest>False</IsCodedUITest>
+    <TestProjectType>UnitTest</TestProjectType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <Choose>
+    <When Condition="('$(VisualStudioVersion)' == '10.0' or '$(VisualStudioVersion)' == '') and '$(TargetFrameworkVersion)' == 'v3.5'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+      </ItemGroup>
+    </When>
+    <Otherwise>
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+      </ItemGroup>
+    </Otherwise>
+  </Choose>
+  <ItemGroup>
+    <Compile Include="TestBase.cs" />
+    <Compile Include="UnitTest1.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Uni2Uni.ERP.AOP\Uni2Uni.ERP.AOP.csproj">
+      <Project>{4b2c6df9-cba2-4894-935c-deab4cbd8233}</Project>
+      <Name>Uni2Uni.ERP.AOP</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uni2uni.ERP.Bll\Uni2uni.ERP.Bll.csproj">
+      <Project>{30f244ed-c082-495c-aa6d-628c877deb52}</Project>
+      <Name>Uni2uni.ERP.Bll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uni2uni.ERP.Domain\Uni2uni.ERP.Domain.csproj">
+      <Project>{79c97e8b-7d19-402a-88a6-36f1a803f36e}</Project>
+      <Name>Uni2uni.ERP.Domain %28Uni2uni.ERP.Domain\Uni2uni.ERP.Domain%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uni2uni.ERP.Global\Uni2uni.ERP.Global.csproj">
+      <Project>{73763488-ae44-45e9-8b66-51d58d03f374}</Project>
+      <Name>Uni2uni.ERP.Global</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uni2uni.ERP.NHiberantMap\Uni2uni.ERP.NHiberantMap.csproj">
+      <Project>{67b939b1-2f77-49ce-9e1d-958d1e34b466}</Project>
+      <Name>Uni2uni.ERP.NHiberantMap</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="bin\Debug\ConfigFiles\Database.config" />
+    <None Include="bin\Debug\ConfigFiles\log4net.config" />
+    <None Include="bin\Debug\ConfigFiles\UnityInfrastructrue.config" />
+    <None Include="bin\Debug\ConfigFiles\UnityService.config" />
+    <None Include="bin\Debug\JUnit.dll.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\FluentNHibernate.dll" />
+    <Content Include="bin\Debug\HibernatingRhinos.Profiler.Appender.v4.0.dll" />
+    <Content Include="bin\Debug\Iesi.Collections.dll" />
+    <Content Include="bin\Debug\Iesi.Collections.xml" />
+    <Content Include="bin\Debug\JUnit.dll" />
+    <Content Include="bin\Debug\JUnit.pdb" />
+    <Content Include="bin\Debug\log4net.dll" />
+    <Content Include="bin\Debug\Microsoft.Practices.ServiceLocation.dll" />
+    <Content Include="bin\Debug\Microsoft.Practices.Unity.Configuration.dll" />
+    <Content Include="bin\Debug\Microsoft.Practices.Unity.dll" />
+    <Content Include="bin\Debug\NHibernate.dll" />
+    <Content Include="bin\Debug\NHibernate.xml" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Bll.dll" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Bll.pdb" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Common.dll" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Common.pdb" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Configuration.dll" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Configuration.pdb" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Domain.dll" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Domain.pdb" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Global.dll" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Global.pdb" />
+    <Content Include="bin\Debug\Uni2uni.ERP.IInfrastructure.dll" />
+    <Content Include="bin\Debug\Uni2uni.ERP.IInfrastructure.pdb" />
+    <Content Include="bin\Debug\Uni2uni.ERP.IService.dll" />
+    <Content Include="bin\Debug\Uni2uni.ERP.IService.pdb" />
+    <Content Include="bin\Debug\Uni2uni.ERP.NHiberantMap.dll" />
+    <Content Include="bin\Debug\Uni2uni.ERP.NHiberantMap.pdb" />
+    <Content Include="bin\Debug\Uni2uni.ERP.NHibernate.dll" />
+    <Content Include="bin\Debug\Uni2uni.ERP.NHibernate.pdb" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Resource.dll" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Resource.pdb" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Service.dll" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Service.pdb" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Unity.dll" />
+    <Content Include="bin\Debug\Uni2uni.ERP.Unity.pdb" />
+    <EmbeddedResource Include="Config\Objects.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <Choose>
+    <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.CodedUITestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Extension, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITesting, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+      </ItemGroup>
+    </When>
+  </Choose>
+  <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

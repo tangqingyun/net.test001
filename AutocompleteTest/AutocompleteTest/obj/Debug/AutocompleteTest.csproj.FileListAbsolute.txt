@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\测试项目\AutocompleteTest\AutocompleteTest\bin\AutocompleteTest.dll
+C:\Users\Administrator\Desktop\测试项目\AutocompleteTest\AutocompleteTest\bin\AutocompleteTest.pdb
+C:\Users\Administrator\Desktop\测试项目\AutocompleteTest\AutocompleteTest\obj\Debug\AutocompleteTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\AutocompleteTest\AutocompleteTest\obj\Debug\AutocompleteTest.dll
+C:\Users\Administrator\Desktop\测试项目\AutocompleteTest\AutocompleteTest\obj\Debug\AutocompleteTest.pdb

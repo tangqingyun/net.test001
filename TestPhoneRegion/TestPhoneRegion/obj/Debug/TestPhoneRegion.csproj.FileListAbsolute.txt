@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\测试项目\TestPhoneRegion\TestPhoneRegion\bin\Debug\TestPhoneRegion.exe
+C:\Users\Administrator\Desktop\测试项目\TestPhoneRegion\TestPhoneRegion\bin\Debug\TestPhoneRegion.pdb
+C:\Users\Administrator\Desktop\测试项目\TestPhoneRegion\TestPhoneRegion\obj\Debug\TestPhoneRegion.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\TestPhoneRegion\TestPhoneRegion\obj\Debug\TestPhoneRegion.exe
+C:\Users\Administrator\Desktop\测试项目\TestPhoneRegion\TestPhoneRegion\obj\Debug\TestPhoneRegion.pdb
+C:\Users\Administrator\Desktop\测试项目\TestPhoneRegion\TestPhoneRegion\bin\Debug\nunit.framework.dll

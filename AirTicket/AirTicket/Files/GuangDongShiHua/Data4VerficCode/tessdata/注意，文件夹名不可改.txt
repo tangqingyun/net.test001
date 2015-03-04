@@ -1,0 +1,1 @@
+﻿因为“TesseractEngine3.dll”引用数据包时，只认目录名为“tessdata”，否则会引起异常

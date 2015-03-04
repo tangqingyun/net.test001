@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\测试项目\TestUnitFramework\TestService\bin\Debug\TestService.dll
+C:\Users\Administrator\Desktop\测试项目\TestUnitFramework\TestService\bin\Debug\TestService.pdb
+C:\Users\Administrator\Desktop\测试项目\TestUnitFramework\TestService\obj\Debug\TestService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\TestUnitFramework\TestService\obj\Debug\TestService.dll
+C:\Users\Administrator\Desktop\测试项目\TestUnitFramework\TestService\obj\Debug\TestService.pdb

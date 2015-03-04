@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net">
+
+  <object id="card" type="Dal.GiftCard,Dal"></object>
+  <object id="logger" type="Dal.Logger,Dal"></object>
+  
+  <object id="tamny" type="Domain.Tamny,Domain">
+    <property name="Name" value="xiaohu"></property>
+    <property name="Age" value="20"></property>
+    <property name="Book">
+      <set>
+        <value>book1</value>
+        <value>book2</value>
+      </set>
+    </property>
+
+    <!--<property name="FriendList">
+      <list element-type="object">
+        <value>friend1</value>
+        <value>friend2</value>
+        <value>friend3</value>
+      </list>
+    </property>-->
+  </object>
+  
+</objects>

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2Uni.ERP.Controllers\bin\Debug\Uni2Uni.ERP.Controllers.dll
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2Uni.ERP.Controllers\bin\Debug\Uni2Uni.ERP.Controllers.pdb
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2Uni.ERP.Controllers\obj\Debug\Uni2Uni.ERP.Controllers.dll
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2Uni.ERP.Controllers\obj\Debug\Uni2Uni.ERP.Controllers.pdb
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2Uni.ERP.Controllers\obj\Debug\Uni2Uni.ERP.Controllers.csprojResolveAssemblyReference.cache

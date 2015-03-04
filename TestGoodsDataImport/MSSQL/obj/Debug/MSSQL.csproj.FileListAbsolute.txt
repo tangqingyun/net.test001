@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\TestGoodsDataImport\MSSQL\obj\Debug\MSSQL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TestGoodsDataImport\MSSQL\bin\Debug\MSSQL.dll
+C:\Users\Administrator\Desktop\TestGoodsDataImport\MSSQL\bin\Debug\MSSQL.pdb
+C:\Users\Administrator\Desktop\TestGoodsDataImport\MSSQL\obj\Debug\MSSQL.dll
+C:\Users\Administrator\Desktop\TestGoodsDataImport\MSSQL\obj\Debug\MSSQL.pdb
+C:\Users\Administrator\Desktop\测试项目\TestGoodsDataImport\MSSQL\bin\Debug\MSSQL.dll
+C:\Users\Administrator\Desktop\测试项目\TestGoodsDataImport\MSSQL\bin\Debug\MSSQL.pdb
+C:\Users\Administrator\Desktop\测试项目\TestGoodsDataImport\MSSQL\obj\Debug\MSSQL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\TestGoodsDataImport\MSSQL\obj\Debug\MSSQL.dll
+C:\Users\Administrator\Desktop\测试项目\TestGoodsDataImport\MSSQL\obj\Debug\MSSQL.pdb

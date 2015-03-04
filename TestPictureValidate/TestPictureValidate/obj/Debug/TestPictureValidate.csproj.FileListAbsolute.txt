@@ -1,0 +1,20 @@
+c:\users\administrator\documents\visual studio 2012\Projects\TestPictureValidate\TestPictureValidate\bin\Debug\TestPictureValidate.exe
+c:\users\administrator\documents\visual studio 2012\Projects\TestPictureValidate\TestPictureValidate\bin\Debug\TestPictureValidate.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\TestPictureValidate\TestPictureValidate\obj\Debug\TestPictureValidate.exe
+c:\users\administrator\documents\visual studio 2012\Projects\TestPictureValidate\TestPictureValidate\obj\Debug\TestPictureValidate.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\TestPictureValidate\TestPictureValidate\obj\Debug\TestPictureValidate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TestPictureValidate\TestPictureValidate\obj\Debug\TestPictureValidate.exe
+C:\Users\Administrator\Desktop\TestPictureValidate\TestPictureValidate\obj\Debug\TestPictureValidate.pdb
+C:\Users\Administrator\Desktop\TestPictureValidate\TestPictureValidate\bin\Debug\TestPictureValidate.exe
+C:\Users\Administrator\Desktop\TestPictureValidate\TestPictureValidate\bin\Debug\TestPictureValidate.pdb
+C:\Users\Administrator\Desktop\TestPictureValidate\TestPictureValidate\obj\Debug\TestPictureValidate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\图片验证码\TestPictureValidate\obj\Debug\TestPictureValidate.exe
+C:\Users\Administrator\Desktop\测试项目\图片验证码\TestPictureValidate\obj\Debug\TestPictureValidate.pdb
+C:\Users\Administrator\Desktop\测试项目\图片验证码\TestPictureValidate\bin\Debug\TestPictureValidate.exe
+C:\Users\Administrator\Desktop\测试项目\图片验证码\TestPictureValidate\bin\Debug\TestPictureValidate.pdb
+C:\Users\Administrator\Desktop\测试项目\图片验证码\TestPictureValidate\obj\Debug\TestPictureValidate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\TestPictureValidate\TestPictureValidate\obj\Debug\TestPictureValidate.exe
+C:\Users\Administrator\Desktop\测试项目\TestPictureValidate\TestPictureValidate\obj\Debug\TestPictureValidate.pdb
+C:\Users\Administrator\Desktop\测试项目\TestPictureValidate\TestPictureValidate\bin\Debug\TestPictureValidate.exe
+C:\Users\Administrator\Desktop\测试项目\TestPictureValidate\TestPictureValidate\bin\Debug\TestPictureValidate.pdb
+C:\Users\Administrator\Desktop\测试项目\TestPictureValidate\TestPictureValidate\obj\Debug\TestPictureValidate.csprojResolveAssemblyReference.cache

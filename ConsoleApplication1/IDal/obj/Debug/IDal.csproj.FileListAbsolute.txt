@@ -1,0 +1,9 @@
+D:\temp\ConsoleApplication1\IDal\bin\Debug\IDal.dll
+D:\temp\ConsoleApplication1\IDal\bin\Debug\IDal.pdb
+D:\temp\ConsoleApplication1\IDal\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\ConsoleApplication1\IDal\obj\Debug\IDal.dll
+D:\temp\ConsoleApplication1\IDal\obj\Debug\IDal.pdb
+C:\Users\Administrator\Desktop\ConsoleApplication1\IDal\bin\Debug\IDal.dll
+C:\Users\Administrator\Desktop\ConsoleApplication1\IDal\bin\Debug\IDal.pdb
+C:\Users\Administrator\Desktop\ConsoleApplication1\IDal\obj\Debug\IDal.dll
+C:\Users\Administrator\Desktop\ConsoleApplication1\IDal\obj\Debug\IDal.pdb

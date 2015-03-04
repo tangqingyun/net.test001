@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\UnityIOC\Dal\bin\Debug\Dal.dll
+C:\Users\Administrator\Desktop\UnityIOC\Dal\bin\Debug\Dal.pdb
+C:\Users\Administrator\Desktop\UnityIOC\Dal\bin\Debug\IDal.dll
+C:\Users\Administrator\Desktop\UnityIOC\Dal\bin\Debug\IDal.pdb
+C:\Users\Administrator\Desktop\UnityIOC\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\UnityIOC\Dal\obj\Debug\Dal.dll
+C:\Users\Administrator\Desktop\UnityIOC\Dal\obj\Debug\Dal.pdb

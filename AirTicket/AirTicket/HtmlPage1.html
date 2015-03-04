@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+</head>
+<body>
+<div class="G_nologin">
+	<div class="G_reg_header clear">
+		
+		<h2>登录格瓦拉</h2>
+	</div>
+	<div class="G_nologin_main clear">
+		
+		<div class="loginbox">
+			<div class="W_login_form">
+				<form method="post" id="loginForm" action="http://www.gewara.com/cas/check_user.xhtml">
+					<input type="hidden" name="TARGETURL" value=""/>
+					<div class="info_list">
+							用户名：<input class="G_input" type="text" name="j_username" id="j_username" alt="输入登录邮箱或手机号码" value="15901473139"/>
+					</div>
+					<div class="info_list">
+						密码：<input class="G_input" type="password" value="tangqingyun" name="j_password" id="j_password" alt="输入登录密码"/>
+					</div>
+					<div class="info_list clear">
+						<input type="hidden" name="captchaId"  id="myLoginCaptcha" value="kR2VYvhfM3Kp93bv2a40977f"/>
+						<label class="verify">
+							验证码<input type="text" class="G_input captcha" id="myLoginCaptchaInput" name="captcha" alt="输入验证码" />
+						</label>
+						<img id="myLoginCaptchaImg" width="80" height="30" src="http://www.gewara.com/captcha.xhtml?captchaId=&r=1372816880881"  onclick="GewaraUtil.refreshCaptcha('myLoginCaptcha')" style="cursor: pointer;margin:3px 0 0 30px;"  title="看不清楚，请点击换一张图片"/>
+					</div>
+					
+					<div class="info_list no_reg clear">
+						
+						<input type="submit" value="登&nbsp;&nbsp;&nbsp;录" class="W_btn_g" id="sbmit"/>
+					</div>
+					
+					
+				</form>
+			</div>		
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

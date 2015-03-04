@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2012\Projects\TestEvent\TestEventThree\bin\Debug\TestEventThree.exe
+c:\users\administrator\documents\visual studio 2012\Projects\TestEvent\TestEventThree\bin\Debug\TestEventThree.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\TestEvent\TestEventThree\obj\Debug\TestEventThree.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\TestEvent\TestEventThree\obj\Debug\TestEventThree.exe
+c:\users\administrator\documents\visual studio 2012\Projects\TestEvent\TestEventThree\obj\Debug\TestEventThree.pdb
+C:\Users\Administrator\Desktop\测试项目\事件与委托\TestEventThree\obj\Debug\TestEventThree.exe
+C:\Users\Administrator\Desktop\测试项目\事件与委托\TestEventThree\obj\Debug\TestEventThree.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\TestMongodb\TestMongodb\bin\Debug\TestMongodb.exe
+C:\Users\Administrator\Desktop\TestMongodb\TestMongodb\bin\Debug\TestMongodb.pdb
+C:\Users\Administrator\Desktop\TestMongodb\TestMongodb\bin\Debug\MongoDB.Bson.dll
+C:\Users\Administrator\Desktop\TestMongodb\TestMongodb\bin\Debug\MongoDB.Driver.dll
+C:\Users\Administrator\Desktop\TestMongodb\TestMongodb\obj\Debug\TestMongodb.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TestMongodb\TestMongodb\obj\Debug\TestMongodb.exe
+C:\Users\Administrator\Desktop\TestMongodb\TestMongodb\obj\Debug\TestMongodb.pdb

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\bin\Debug\yun.shop.common.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\bin\Debug\yun.shop.common.pdb
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\bin\Debug\yun.shop.entityframework.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\bin\Debug\yun.shop.domain.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\bin\Debug\yun.shop.domainMap.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\bin\Debug\yun.shop.entityframework.pdb
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\bin\Debug\yun.shop.domain.pdb
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\bin\Debug\yun.shop.domainMap.pdb
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\obj\Debug\yun.shop.common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\obj\Debug\yun.shop.common.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\obj\Debug\yun.shop.common.pdb
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\bin\Debug\yun.shop.resource.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\bin\Debug\yun.shop.configuration.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\bin\Debug\yun.shop.resource.pdb
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.common\bin\Debug\yun.shop.configuration.pdb

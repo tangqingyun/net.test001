@@ -1,0 +1,42 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="AB9542BD-505C-4782-AC4D-C179FEE5D4C8/f:MyClass.cs" caret="312" fromTop="17" />
+      <File id="517EACD6-54F5-44DB-8BE4-44534FFF9670/f:IClass.cs" caret="106" fromTop="4" />
+      <File id="CD19638A-9EEE-4167-97F1-E661D6BE4DA6/f:App.config" caret="604" fromTop="14" />
+      <File id="CD19638A-9EEE-4167-97F1-E661D6BE4DA6/f:Program.cs" caret="360" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CD19638A-9EEE-4167-97F1-E661D6BE4DA6/f:Program.cs" caret="838" fromTop="20" />
+      <File id="517EACD6-54F5-44DB-8BE4-44534FFF9670/f:IClass.cs" caret="178" fromTop="9" />
+      <File id="AB9542BD-505C-4782-AC4D-C179FEE5D4C8/f:MyClass.cs" caret="319" fromTop="17" />
+      <File id="AB9542BD-505C-4782-AC4D-C179FEE5D4C8/f:MyClass.cs" caret="153" fromTop="7" />
+      <File id="CD19638A-9EEE-4167-97F1-E661D6BE4DA6/f:App.config" caret="604" fromTop="14" />
+      <File id="CD19638A-9EEE-4167-97F1-E661D6BE4DA6/f:Program.cs" caret="838" fromTop="24" />
+      <File id="CD19638A-9EEE-4167-97F1-E661D6BE4DA6/f:Program.cs" caret="838" fromTop="22" />
+      <File id="CD19638A-9EEE-4167-97F1-E661D6BE4DA6/f:Program.cs" caret="838" fromTop="23" />
+      <File id="CD19638A-9EEE-4167-97F1-E661D6BE4DA6/f:Program.cs" caret="738" fromTop="28" />
+      <File id="CD19638A-9EEE-4167-97F1-E661D6BE4DA6/f:Program.cs" caret="360" fromTop="4" />
+      <File id="CD19638A-9EEE-4167-97F1-E661D6BE4DA6/f:Program.cs" caret="738" fromTop="8" />
+      <File id="CD19638A-9EEE-4167-97F1-E661D6BE4DA6/f:App.config" caret="428" fromTop="8" />
+      <File id="CD19638A-9EEE-4167-97F1-E661D6BE4DA6/f:Program.cs" caret="817" fromTop="21" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

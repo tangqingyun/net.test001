@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\ConsoleReadConfig\ConsoleReadConfig\bin\Debug\ConsoleReadConfig.exe
+C:\Users\Administrator\Desktop\ConsoleReadConfig\ConsoleReadConfig\bin\Debug\ConsoleReadConfig.pdb
+C:\Users\Administrator\Desktop\ConsoleReadConfig\ConsoleReadConfig\obj\Debug\ConsoleReadConfig.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ConsoleReadConfig\ConsoleReadConfig\obj\Debug\ConsoleReadConfig.exe
+C:\Users\Administrator\Desktop\ConsoleReadConfig\ConsoleReadConfig\obj\Debug\ConsoleReadConfig.pdb

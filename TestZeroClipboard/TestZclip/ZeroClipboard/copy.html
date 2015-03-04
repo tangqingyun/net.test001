@@ -1,0 +1,67 @@
+<html>
+<head>
+	<title>Zero Clipboard Multiple Test</title>
+	
+	<style type="text/css">
+		body { font-family:arial,sans-serif; font-size:9pt; }
+		
+		div.multiple {
+			float: left;
+			background-color: white;
+			width:200px; height:200px;
+			border:1px solid #ccc;
+			margin:5px;
+			cursor: pointer;
+			font-size: 14pt;
+		}
+		
+		div.multiple.hover {
+			background-color: #ddd;
+		}		
+	</style>
+	
+	<script type="text/javascript" src="jquery-1.5.1.min.js"></script>
+	<script type="text/javascript" src="zc.js"></script>
+	
+	<script type="text/javascript">
+		var clip = null;
+		$(function(){
+			clip = new ZeroClipboard.Client();
+			clip.setHandCursor(true);
+
+			$('.btncopy').mouseover( function() {
+			   
+			   var content=$(this).attr("copytext");
+				clip.setText("ererwrerqwrewrqerqwrerqewe");
+				
+				if (clip.div) {
+					clip.receiveEvent('mouseout', null);
+					clip.reposition(this);
+				}
+				else{
+				 clip.glue(this);
+				}
+
+				clip.receiveEvent('mouseover', null);
+				clip.addEventListener('complete', function(client, text) {
+					alert('以下地址已成功复制到剪贴板：'+text);
+				});
+			
+			} );
+		});
+
+
+	</script>
+
+	
+</head>
+
+<body>
+<input class="btncopy" type="button" value="copy" copytext="我的在基本面村复制的内容" />
+	<div>
+
+	</div>
+
+</body>
+
+</html>

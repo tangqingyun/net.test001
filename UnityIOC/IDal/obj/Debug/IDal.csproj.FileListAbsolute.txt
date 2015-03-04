@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\UnityIOC\IDal\bin\Debug\IDal.dll
+C:\Users\Administrator\Desktop\UnityIOC\IDal\bin\Debug\IDal.pdb
+C:\Users\Administrator\Desktop\UnityIOC\IDal\obj\Debug\IDal.dll
+C:\Users\Administrator\Desktop\UnityIOC\IDal\obj\Debug\IDal.pdb

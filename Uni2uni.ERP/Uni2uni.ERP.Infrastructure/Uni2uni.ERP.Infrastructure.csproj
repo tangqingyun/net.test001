@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{12F2DFD5-E94B-4309-886D-2765A15655CB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Uni2uni.ERP.Infrastructure</RootNamespace>
+    <AssemblyName>Uni2uni.ERP.Infrastructure</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\Uni2uni.ERP.Common\Package\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\Uni2uni.ERP.Common\Package\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseBaseRepository.cs" />
+    <Compile Include="ProductCategoryRepository.cs" />
+    <Compile Include="BaseRepository.cs" />
+    <Compile Include="ProductRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Uni2uni.ERP.Common\Uni2uni.ERP.Common.csproj">
+      <Project>{e0e160c5-8a54-479e-ad27-918521ed0e57}</Project>
+      <Name>Uni2uni.ERP.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uni2uni.ERP.Domain\Uni2uni.ERP.Domain.csproj">
+      <Project>{79c97e8b-7d19-402a-88a6-36f1a803f36e}</Project>
+      <Name>Uni2uni.ERP.Domain %28Uni2uni.ERP.Domain\Uni2uni.ERP.Domain%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uni2uni.ERP.IInfrastructure\Uni2uni.ERP.IInfrastructure.csproj">
+      <Project>{069d8f95-53b2-4e24-82f7-058e18743539}</Project>
+      <Name>Uni2uni.ERP.IInfrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uni2uni.ERP.NHibernate\Uni2uni.ERP.NHibernate.csproj">
+      <Project>{c19ea87b-d644-46e7-a6e5-b31b32d4d297}</Project>
+      <Name>Uni2uni.ERP.NHibernate</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uni2uni.ERP.Resource\Uni2uni.ERP.Resource.csproj">
+      <Project>{3e1c5a32-8f43-4979-b67c-e28ef459db75}</Project>
+      <Name>Uni2uni.ERP.Resource</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

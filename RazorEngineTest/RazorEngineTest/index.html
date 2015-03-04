@@ -1,0 +1,13 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<body>
+
+    @Include("header.html",Model);
+    @foreach(var itm in @Model.StudentList){
+        <p>@itm.Name</p>
+    }
+
+    <p>@StringUpper(@Model.Name)</p>
+</body>
+</html>

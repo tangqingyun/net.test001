@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Uni2uni.ERP\Uni2uni.ERP.Resource\bin\Debug\Uni2uni.ERP.Resource.dll
+C:\Users\Administrator\Desktop\Uni2uni.ERP\Uni2uni.ERP.Resource\bin\Debug\Uni2uni.ERP.Resource.pdb
+C:\Users\Administrator\Desktop\Uni2uni.ERP\Uni2uni.ERP.Resource\obj\Debug\Uni2uni.ERP.Resource.dll
+C:\Users\Administrator\Desktop\Uni2uni.ERP\Uni2uni.ERP.Resource\obj\Debug\Uni2uni.ERP.Resource.pdb
+C:\Users\Administrator\Desktop\Uni2uni.ERP\Uni2uni.ERP.Resource\obj\Debug\Uni2uni.ERP.Resource.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2uni.ERP.Resource\bin\Debug\Uni2uni.ERP.Resource.dll
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2uni.ERP.Resource\bin\Debug\Uni2uni.ERP.Resource.pdb
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2uni.ERP.Resource\obj\Debug\Uni2uni.ERP.Resource.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2uni.ERP.Resource\obj\Debug\Uni2uni.ERP.Resource.dll
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2uni.ERP.Resource\obj\Debug\Uni2uni.ERP.Resource.pdb

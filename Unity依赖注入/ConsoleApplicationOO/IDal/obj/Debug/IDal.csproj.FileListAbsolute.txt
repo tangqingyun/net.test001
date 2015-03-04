@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\ConsoleApplicationOO\IDal\bin\Debug\IDal.dll
+C:\Users\Administrator\Desktop\ConsoleApplicationOO\IDal\bin\Debug\IDal.pdb
+C:\Users\Administrator\Desktop\ConsoleApplicationOO\IDal\obj\Debug\IDal.dll
+C:\Users\Administrator\Desktop\ConsoleApplicationOO\IDal\obj\Debug\IDal.pdb
+C:\Users\Administrator\Desktop\ConsoleApplicationOO\IDal\obj\Debug\IDal.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Unity依赖注入\ConsoleApplicationOO\IDal\bin\Debug\IDal.dll
+C:\Users\Administrator\Desktop\Unity依赖注入\ConsoleApplicationOO\IDal\bin\Debug\IDal.pdb
+C:\Users\Administrator\Desktop\Unity依赖注入\ConsoleApplicationOO\IDal\obj\Debug\IDal.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Unity依赖注入\ConsoleApplicationOO\IDal\obj\Debug\IDal.dll
+C:\Users\Administrator\Desktop\Unity依赖注入\ConsoleApplicationOO\IDal\obj\Debug\IDal.pdb

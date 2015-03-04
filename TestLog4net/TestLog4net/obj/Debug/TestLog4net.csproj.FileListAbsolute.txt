@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\TestLog4net\TestLog4net\bin\Debug\TestLog4net.exe
+C:\Users\Administrator\Desktop\TestLog4net\TestLog4net\bin\Debug\TestLog4net.pdb
+C:\Users\Administrator\Desktop\TestLog4net\TestLog4net\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\TestLog4net\TestLog4net\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\TestLog4net\TestLog4net\obj\Debug\TestLog4net.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TestLog4net\TestLog4net\obj\Debug\TestLog4net.exe
+C:\Users\Administrator\Desktop\TestLog4net\TestLog4net\obj\Debug\TestLog4net.pdb
+C:\Users\Administrator\Desktop\测试项目\TestLog4net\TestLog4net\obj\Debug\TestLog4net.exe
+C:\Users\Administrator\Desktop\测试项目\TestLog4net\TestLog4net\obj\Debug\TestLog4net.pdb
+C:\Users\Administrator\Desktop\测试项目\TestLog4net\TestLog4net\bin\Debug\TestLog4net.exe
+C:\Users\Administrator\Desktop\测试项目\TestLog4net\TestLog4net\bin\Debug\TestLog4net.pdb
+C:\Users\Administrator\Desktop\测试项目\TestLog4net\TestLog4net\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\测试项目\TestLog4net\TestLog4net\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\测试项目\TestLog4net\TestLog4net\obj\Debug\TestLog4net.csprojResolveAssemblyReference.cache

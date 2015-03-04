@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Uni2uni.ERP\Uni2uni.ERP.Cache\bin\Debug\Uni2uni.ERP.Cache.dll
+C:\Users\Administrator\Desktop\Uni2uni.ERP\Uni2uni.ERP.Cache\bin\Debug\Uni2uni.ERP.Cache.pdb
+C:\Users\Administrator\Desktop\Uni2uni.ERP\Uni2uni.ERP.Cache\obj\Debug\Uni2uni.ERP.Cache.dll
+C:\Users\Administrator\Desktop\Uni2uni.ERP\Uni2uni.ERP.Cache\obj\Debug\Uni2uni.ERP.Cache.pdb
+C:\Users\Administrator\Desktop\Uni2uni.ERP\Uni2uni.ERP.Cache\obj\Debug\Uni2uni.ERP.Cache.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2uni.ERP.Cache\bin\Debug\Uni2uni.ERP.Cache.dll
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2uni.ERP.Cache\bin\Debug\Uni2uni.ERP.Cache.pdb
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2uni.ERP.Cache\obj\Debug\Uni2uni.ERP.Cache.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2uni.ERP.Cache\obj\Debug\Uni2uni.ERP.Cache.dll
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2uni.ERP.Cache\obj\Debug\Uni2uni.ERP.Cache.pdb

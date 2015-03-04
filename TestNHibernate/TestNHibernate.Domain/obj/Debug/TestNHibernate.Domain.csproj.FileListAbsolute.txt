@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Domain\bin\Debug\TestNHibernate.Domain.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Domain\bin\Debug\TestNHibernate.Domain.pdb
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Domain\obj\Debug\TestNHibernate.Domain.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Domain\obj\Debug\TestNHibernate.Domain.pdb
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Domain\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Domain\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Domain\bin\Debug\NHibernate.xml
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Domain\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Domain\obj\Debug\TestNHibernate.Domain.csprojResolveAssemblyReference.cache

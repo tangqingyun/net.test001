@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.Domain\bin\Debug\EntityFramework.MVC.Domain.dll
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.Domain\bin\Debug\EntityFramework.MVC.Domain.pdb
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.Domain\obj\Debug\EntityFramework.MVC.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.Domain\obj\Debug\EntityFramework.MVC.Domain.dll
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.Domain\obj\Debug\EntityFramework.MVC.Domain.pdb

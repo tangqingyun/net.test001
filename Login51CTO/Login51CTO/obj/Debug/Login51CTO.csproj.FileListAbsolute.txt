@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\测试项目\Login51CTO\Login51CTO\bin\Debug\Login51CTO.exe
+C:\Users\Administrator\Desktop\测试项目\Login51CTO\Login51CTO\bin\Debug\Login51CTO.pdb
+C:\Users\Administrator\Desktop\测试项目\Login51CTO\Login51CTO\obj\Debug\Login51CTO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\Login51CTO\Login51CTO\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Administrator\Desktop\测试项目\Login51CTO\Login51CTO\obj\Debug\Login51CTO.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\测试项目\Login51CTO\Login51CTO\obj\Debug\Login51CTO.exe
+C:\Users\Administrator\Desktop\测试项目\Login51CTO\Login51CTO\obj\Debug\Login51CTO.pdb
+F:\qingyun.tang\My.Test.Projects\测试项目\Login51CTO\Login51CTO\obj\Debug\Interop.SHDocVw.dll
+F:\qingyun.tang\My.Test.Projects\测试项目\Login51CTO\Login51CTO\obj\Debug\Login51CTO.csproj.ResolveComReference.cache
+F:\qingyun.tang\My.Test.Projects\测试项目\Login51CTO\Login51CTO\obj\Debug\Login51CTO.exe
+F:\qingyun.tang\My.Test.Projects\测试项目\Login51CTO\Login51CTO\obj\Debug\Login51CTO.pdb
+F:\qingyun.tang\My.Test.Projects\测试项目\Login51CTO\Login51CTO\bin\Debug\Login51CTO.exe
+F:\qingyun.tang\My.Test.Projects\测试项目\Login51CTO\Login51CTO\bin\Debug\Login51CTO.pdb
+F:\qingyun.tang\My.Test.Projects\测试项目\Login51CTO\Login51CTO\obj\Debug\Login51CTO.csprojResolveAssemblyReference.cache

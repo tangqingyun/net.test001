@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\测试项目\TestEnum\TestEnum\bin\Debug\TestEnum.exe
+C:\Users\Administrator\Desktop\测试项目\TestEnum\TestEnum\bin\Debug\TestEnum.pdb
+C:\Users\Administrator\Desktop\测试项目\TestEnum\TestEnum\obj\Debug\TestEnum.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\TestEnum\TestEnum\obj\Debug\TestEnum.exe
+C:\Users\Administrator\Desktop\测试项目\TestEnum\TestEnum\obj\Debug\TestEnum.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\ProxyAOP\IDal\bin\Debug\IDal.dll
+C:\Users\Administrator\Desktop\ProxyAOP\IDal\bin\Debug\IDal.pdb
+C:\Users\Administrator\Desktop\ProxyAOP\IDal\obj\Debug\IDal.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ProxyAOP\IDal\obj\Debug\IDal.dll
+C:\Users\Administrator\Desktop\ProxyAOP\IDal\obj\Debug\IDal.pdb

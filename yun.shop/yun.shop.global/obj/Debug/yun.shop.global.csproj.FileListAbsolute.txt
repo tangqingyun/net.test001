@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.global\obj\Debug\yun.shop.global.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.global\bin\Debug\yun.shop.global.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.global\bin\Debug\yun.shop.global.pdb
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.global\obj\Debug\yun.shop.global.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.global\obj\Debug\yun.shop.global.pdb
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.global\bin\Debug\System.Web.Http.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.global\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.global\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.global\bin\Debug\System.Web.Http.xml
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.global\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.global\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.global\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.global\bin\Debug\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.global\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll

@@ -1,0 +1,97 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SQL执行监控</title>
+    <script src="~/Scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+</head>
+<body>
+    <input type="button" value="开始" id="btnstart"/>
+    <input type="button" value="停止" id="btnstop"/>
+    
+    <div>
+        <table  border="1">
+            <tr>
+                <td>creation_time</td>
+                <td>statement_text</td>
+                @*<td>text</td>*@
+                <td>total_worker_time</td>
+                <td>last_worker_time</td>
+                <td>max_worker_time</td>
+                <td>min_worker_time</td>
+            </tr>
+            <tbody id="tbody">
+                <tr style="display:none;">
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+<script type="text/javascript">
+    var obj = null;
+    $(function () {
+
+        $("#btnstart").click(function () {
+            SelectExecute();
+        });
+
+        $("#btnstop").click(function () {
+            if(obj!=null)
+                clearInterval(obj);
+        });
+        
+        obj=setInterval(function () {
+            SelectExecute();
+        }, 3000);
+
+    });
+
+    function SelectExecute() {
+        $.getJSON("/Default/Load?t="+new Date(), {}, function (data) {
+            var tr = "<tr>";
+            tr += "<td>" + ConvertJSONDatete(data.creation_time) + "</td>";
+            tr += "<td>" + data.statement_text + "</td>";
+            //tr += "<td>" + data.text + "</td>";
+            tr += "<td>" + data.total_worker_time + "</td>";
+            tr += "<td>" + data.last_worker_time + "</td>";
+            tr += "<td>" + data.max_worker_time + "</td>";
+            tr += "<td>" + data.min_worker_time + "</td>";
+            tr += "</tr>";
+            var first=$("#tbody tr:eq(0)");
+            $(tr).insertAfter(first);
+            //$("#tbody").append(tr);
+        });
+    }
+
+    function ConvertJSONDatete(JSONDateString) {
+        jsondate = JSONDateString.replace("/Date(", "").replace(")/", "");
+        if (jsondate.indexOf("+") > 0) {
+            jsondate = jsondate.substring(0, jsondate.indexOf("+"));
+        } else if (jsondate.indexOf("-") > 0) {
+            jsondate = jsondate.substring(0, jsondate.indexOf("-"));
+        }
+        var date = new Date(parseInt(jsondate, 10));
+        var month = date.getMonth() + 1 < 10 ? "0" + (date.getMonth() + 1) : date.getMonth() + 1;
+        var cdate = date.getDate() < 10 ? "0" + date.getDate() : date.getDate();
+        var hours = date.getHours() < 10 ? "0" + date.getHours() : date.getHours();
+        var minutes = date.getMinutes() < 10 ? "0" + date.getMinutes() : date.getMinutes();
+        var seconds = date.getSeconds() < 10 ? "0" + date.getSeconds() : date.getSeconds();
+
+        return date.getFullYear() + "-" + month + "-" + cdate + " " + hours + ":" + minutes+ ":" + date.getSeconds();
+    }
+
+
+</script>
+</body>
+</html>

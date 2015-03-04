@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+<!--易捷充值金额-->
+<EjoyRechargeAmount>
+  <Amount>100</Amount>
+  <Amount>200</Amount>
+  <Amount>500</Amount>
+  <Amount>800</Amount>
+  <Amount>1000</Amount>
+  <Amount>1500</Amount>
+  <Amount>2000</Amount>
+  <Amount>2500</Amount>
+  <Amount>3000</Amount>
+  <Amount>5000</Amount>
+  <Amount>10000</Amount>
+  <Amount>20000</Amount>
+  <Amount>50000</Amount>
+</EjoyRechargeAmount>
+
+<!--易捷充值地区-->
+<EjoyRechargeArea>
+  <Area ID='11'>北京</Area>
+  <Area ID='37'>山东</Area>
+  <Area ID='31'>上海</Area>
+  <Area ID='53'>云南</Area>
+  <Area ID='41'>河南</Area>
+  <Area ID='51'>四川</Area>
+  <Area ID='44'>广东</Area>
+  <Area ID='90'>深圳</Area>
+  <Area ID='32'>江苏</Area>
+  <Area ID='42'>湖北</Area>
+  <Area ID='13'>河北</Area>
+  <Area ID='36'>江西</Area>
+  <Area ID='46'>海南</Area>
+  <Area ID='34'>安徽</Area>
+  <Area ID='45'>广西</Area>
+  <Area ID='35'>福建</Area>
+  <Area ID='52'>贵州</Area>
+  <Area ID='14'>山西</Area>
+  <Area ID='12'>天津</Area>
+</EjoyRechargeArea>
+
+<!--系统允许充值金额-->
+<SysRechargeAmount>
+  <Amount>500</Amount>
+  <Amount>1000</Amount>
+  <Amount>2000</Amount>
+</SysRechargeAmount>
+  
+</root>

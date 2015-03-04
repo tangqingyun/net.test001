@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Provinces>
+    <Province ID="11">京</Province>
+    <Province ID="12">津</Province>
+    <Province ID="13">冀</Province>
+    <Province ID="14">晋</Province>
+    <Province ID="15">蒙</Province>
+    <Province ID="21">辽</Province>
+    <Province ID="22">吉</Province>
+    <Province ID="23">黑</Province>
+    <Province ID="31">沪</Province>
+    <Province ID="32">苏</Province>
+    <Province ID="33">浙</Province>
+    <Province ID="34">皖</Province>
+    <Province ID="35">闽</Province>
+    <Province ID="36">赣</Province>
+    <Province ID="37">鲁</Province>
+    <Province ID="41">豫</Province>
+    <Province ID="42">鄂</Province>
+    <Province ID="43">湘</Province>
+    <Province ID="44">粤</Province>
+    <Province ID="45">桂</Province>
+    <Province ID="46">琼</Province>
+    <Province ID="50">渝</Province>
+    <Province ID="51">川</Province>
+    <Province ID="52">贵</Province>
+    <Province ID="53">云</Province>
+    <Province ID="54">藏</Province>
+    <Province ID="61">陕</Province>
+    <Province ID="62">甘</Province>
+    <Province ID="63">青</Province>
+    <Province ID="64">宁</Province>
+    <Province ID="65">新</Province>
+    <Province ID="71">台</Province>
+  </Provinces>
+</root>
+
+

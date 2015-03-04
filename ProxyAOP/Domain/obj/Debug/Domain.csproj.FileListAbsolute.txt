@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\ProxyAOP\Domain\bin\Debug\Domain.dll
+C:\Users\Administrator\Desktop\ProxyAOP\Domain\bin\Debug\Domain.pdb
+C:\Users\Administrator\Desktop\ProxyAOP\Domain\obj\Debug\Domain.dll
+C:\Users\Administrator\Desktop\ProxyAOP\Domain\obj\Debug\Domain.pdb

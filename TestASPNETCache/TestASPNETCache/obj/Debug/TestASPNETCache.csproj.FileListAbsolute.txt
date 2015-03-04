@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\测试项目\TestASPNETCache\TestASPNETCache\bin\Debug\TestASPNETCache.exe
+C:\Users\Administrator\Desktop\测试项目\TestASPNETCache\TestASPNETCache\bin\Debug\TestASPNETCache.pdb
+C:\Users\Administrator\Desktop\测试项目\TestASPNETCache\TestASPNETCache\obj\Debug\TestASPNETCache.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\TestASPNETCache\TestASPNETCache\obj\Debug\TestASPNETCache.exe
+C:\Users\Administrator\Desktop\测试项目\TestASPNETCache\TestASPNETCache\obj\Debug\TestASPNETCache.pdb

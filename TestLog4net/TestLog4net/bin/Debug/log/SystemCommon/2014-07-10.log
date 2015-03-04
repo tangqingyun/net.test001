@@ -1,0 +1,9 @@
+2014-07-10 10:27:21,293 [1] ERROR SystemCommonErrorLogAdapter_RollingFile - 写入错误信息：error
+2014-07-10 10:29:52,582 [1] ERROR SystemCommonErrorLogAdapter_RollingFile - 写入错误信息01：error
+2014-07-10 10:37:46,854 [1] ERROR SystemCommonErrorLogAdapter_RollingFile - 写入错误信息01：error
+2014-07-10 10:48:53,513 [1] ERROR SystemCommonErrorLogAdapter_RollingFile - 写入错误信息01：error
+2014-07-10 10:50:21,653 [1] ERROR SystemCommonErrorLogAdapter_RollingFile - 写入错误信息01：error
+2014-07-10 10:52:31,820 [1] ERROR SystemCommonErrorLogAdapter_RollingFile - 写入错误信息01：error
+2014-07-10 14:35:33,852 [1] ERROR SystemCommonErrorLogAdapter_RollingFile - 写入错误信息01：error
+2014-07-10 16:06:11,780 [1] ERROR SystemCommonErrorLogAdapter_RollingFile - 写入错误信息01：error
+2014-07-10 16:10:01,708 [1] ERROR SystemCommonErrorLogAdapter_RollingFile - 写入错误信息01：error

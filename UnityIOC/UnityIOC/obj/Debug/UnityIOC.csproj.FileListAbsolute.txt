@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\UnityIOC\UnityIOC\bin\Debug\UnityIOC.exe
+C:\Users\Administrator\Desktop\UnityIOC\UnityIOC\bin\Debug\UnityIOC.pdb
+C:\Users\Administrator\Desktop\UnityIOC\UnityIOC\bin\Debug\IDal.dll
+C:\Users\Administrator\Desktop\UnityIOC\UnityIOC\bin\Debug\IDal.pdb
+C:\Users\Administrator\Desktop\UnityIOC\UnityIOC\obj\Debug\UnityIOC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\UnityIOC\UnityIOC\obj\Debug\UnityIOC.exe
+C:\Users\Administrator\Desktop\UnityIOC\UnityIOC\obj\Debug\UnityIOC.pdb

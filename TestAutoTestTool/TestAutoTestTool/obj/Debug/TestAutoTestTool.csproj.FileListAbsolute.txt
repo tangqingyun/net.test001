@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2012\Projects\TestAutoTestTool\TestAutoTestTool\bin\Debug\TestAutoTestTool.exe
+c:\users\administrator\documents\visual studio 2012\Projects\TestAutoTestTool\TestAutoTestTool\bin\Debug\TestAutoTestTool.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\TestAutoTestTool\TestAutoTestTool\obj\Debug\TestAutoTestTool.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\TestAutoTestTool\TestAutoTestTool\obj\Debug\Interop.SHDocVw.dll
+c:\users\administrator\documents\visual studio 2012\Projects\TestAutoTestTool\TestAutoTestTool\obj\Debug\TestAutoTestTool.csproj.ResolveComReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\TestAutoTestTool\TestAutoTestTool\obj\Debug\TestAutoTestTool.exe
+c:\users\administrator\documents\visual studio 2012\Projects\TestAutoTestTool\TestAutoTestTool\obj\Debug\TestAutoTestTool.pdb
+C:\Users\Administrator\Desktop\测试项目\TestAutoTestTool\TestAutoTestTool\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Administrator\Desktop\测试项目\TestAutoTestTool\TestAutoTestTool\obj\Debug\TestAutoTestTool.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\测试项目\TestAutoTestTool\TestAutoTestTool\obj\Debug\TestAutoTestTool.exe
+C:\Users\Administrator\Desktop\测试项目\TestAutoTestTool\TestAutoTestTool\obj\Debug\TestAutoTestTool.pdb
+C:\Users\Administrator\Desktop\测试项目\TestAutoTestTool\TestAutoTestTool\bin\Debug\TestAutoTestTool.exe
+C:\Users\Administrator\Desktop\测试项目\TestAutoTestTool\TestAutoTestTool\bin\Debug\TestAutoTestTool.pdb
+C:\Users\Administrator\Desktop\测试项目\TestAutoTestTool\TestAutoTestTool\obj\Debug\TestAutoTestTool.csprojResolveAssemblyReference.cache

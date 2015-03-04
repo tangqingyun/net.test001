@@ -1,0 +1,773 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Province>
+    <ID>110000</ID>
+    <Name>北京</Name>
+    <ShortName>京</ShortName>
+    <Citys>
+      <City ID="110000">北京</City>
+      <City ID="110001">东城</City>
+      <City ID="110002">西城</City>
+      <City ID="110003">海淀</City>
+      <City ID="110004">朝阳</City>
+      <City ID="110005">丰台</City>
+      <City ID="110006">石景山</City>
+      <City ID="110007">通州</City>
+      <City ID="110008">顺义</City>
+      <City ID="110009">房山</City>
+      <City ID="110010">大兴</City>
+      <City ID="110011">昌平</City>
+      <City ID="110012">怀柔</City>
+      <City ID="110013">平谷</City>
+      <City ID="110014">门头沟</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>130000</ID>
+    <Name>河北</Name>
+    <ShortName>冀</ShortName>
+    <Citys>
+      <City ID="130100">石家庄</City>
+      <City ID="130101">鹿泉</City>
+      <City ID="130102">晋州</City>
+      <City ID="130103">新乐</City>
+      <City ID="130104">藁城</City>
+      <City ID="130200">唐山</City>
+      <City ID="130201">遵化</City>
+      <City ID="130202">迁安</City>
+      <City ID="130300">秦皇岛</City>
+      <City ID="130400">邯郸</City>
+      <City ID="130401">武安</City>
+      <City ID="130500">邢台</City>
+      <City ID="130501">沙河</City>
+      <City ID="130502">南宫</City>
+      <City ID="130600">保定</City>
+      <City ID="130601">涿州</City>
+      <City ID="130602">安国</City>
+      <City ID="130603">高碑店</City>
+      <City ID="130700">张家口</City>
+      <City ID="130800">承德</City>
+      <City ID="130900">沧州</City>
+      <City ID="130901">泊头</City>
+      <City ID="130902">任丘</City>
+      <City ID="130903">黄骅</City>
+      <City ID="130904">河间</City>
+      <City ID="131000">廊坊</City>
+      <City ID="131001">霸州</City>
+      <City ID="131002">三河</City>
+      <City ID="131100">衡水</City>
+      <City ID="131101">冀州</City>
+      <City ID="131102">深州</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>140000</ID>
+    <Name>山西</Name>
+    <ShortName>晋</ShortName>
+    <Citys>
+      <City ID="140100">太原</City>
+      <City ID="140101">古交</City>
+      <City ID="140200">大同</City>
+      <City ID="140300">阳泉</City>
+      <City ID="140400">长治</City>
+      <City ID="140401">潞城</City>
+      <City ID="140500">晋城</City>
+      <City ID="140501">高平</City>
+      <City ID="140600">朔州</City>
+      <City ID="140700">晋中</City>
+      <City ID="140701">介休</City>
+      <City ID="140800">运城</City>
+      <City ID="140801">河津</City>
+      <City ID="140802">永济</City>
+      <City ID="140900">忻州</City>
+      <City ID="140901">原平</City>
+      <City ID="141000">临汾</City>
+      <City ID="141001">侯马</City>
+      <City ID="141002">霍州</City>
+      <City ID="141100">吕梁</City>
+      <City ID="141101">孝义</City>
+      <City ID="141102">汾阳</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>150000</ID>
+    <Name>内蒙古</Name>
+    <ShortName>蒙</ShortName>
+    <Citys>
+      <City ID="150100">呼和浩特</City>
+      <City ID="150200">包头</City>
+      <City ID="150300">乌海</City>
+      <City ID="150400">赤峰</City>
+      <City ID="150500">通辽</City>
+      <City ID="150501">霍林郭勒</City>
+      <City ID="150600">鄂尔多斯</City>
+      <City ID="150700">呼伦贝尔</City>
+      <City ID="150701">满洲里</City>
+      <City ID="150702">扎兰屯</City>
+      <City ID="150703">牙克石</City>
+      <City ID="150704">根河</City>
+      <City ID="150705">额尔古纳</City>
+      <City ID="150800">巴彦淖尔</City>
+      <City ID="150900">乌兰察布</City>
+      <City ID="150901">丰镇</City>
+      <City ID="152200">兴安盟</City>
+      <City ID="152500">锡林郭勒盟</City>
+      <City ID="152900">阿拉善盟</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>210000</ID>
+    <Name>辽宁</Name>
+    <ShortName>辽</ShortName>
+    <Citys>
+      <City ID="210100">沈阳</City>
+      <City ID="210101">新民</City>
+      <City ID="210200">大连</City>
+      <City ID="210201">瓦房店</City>
+      <City ID="210202">普兰店</City>
+      <City ID="210203">庄河</City>
+      <City ID="210300">鞍山</City>
+      <City ID="210301">海城</City>
+      <City ID="210400">抚顺</City>
+      <City ID="210600">丹东</City>
+      <City ID="210601">凤城</City>
+      <City ID="210602">东港</City>
+      <City ID="210800">营口</City>
+      <City ID="210801">大石桥</City>
+      <City ID="210802">盖州</City>
+      <City ID="210900">阜新</City>
+      <City ID="211000">辽阳</City>
+      <City ID="211001">灯塔</City>
+      <City ID="211300">朝阳</City>
+      <City ID="211301">北票</City>
+      <City ID="211302">凌源</City>
+      <City ID="211400">葫芦岛</City>
+      <City ID="211401">兴城</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>220000</ID>
+    <Name>吉林</Name>
+    <ShortName>吉</ShortName>
+    <Citys>
+      <City ID="220100">长春</City>
+      <City ID="220101">九台</City>
+      <City ID="220102">榆树</City>
+      <City ID="220103">德惠</City>
+      <City ID="220200">吉林</City>
+      <City ID="220300">四平</City>
+      <City ID="220301">双辽</City>
+      <City ID="220400">辽源</City>
+      <City ID="220500">通化</City>
+      <City ID="220501">集安</City>
+      <City ID="220600">白山</City>
+      <City ID="220601">临江</City>
+      <City ID="220700">松原</City>
+      <City ID="220701">扶余</City>
+      <City ID="220800">白城</City>
+      <City ID="220801">洮南</City>
+      <City ID="220802">大安</City>
+      <City ID="222400">延边</City>
+      <City ID="222401">延吉</City>
+      <City ID="222402">图们</City>
+      <City ID="222403">敦化</City>
+      <City ID="222404">龙井</City>
+      <City ID="222405">珲春</City>
+      <City ID="222406">和龙</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>230000</ID>
+    <Name>黑龙江</Name>
+    <ShortName>黑</ShortName>
+    <Citys>
+      <City ID="230100">哈尔滨</City>
+      <City ID="230101">五常</City>
+      <City ID="230102">双城</City>
+      <City ID="230103">尚志</City>
+      <City ID="230200">齐齐哈尔</City>
+      <City ID="230201">讷河</City>
+      <City ID="230300">鸡西</City>
+      <City ID="230301">虎林</City>
+      <City ID="230302">密山</City>
+      <City ID="230400">鹤岗</City>
+      <City ID="230500">双鸭山</City>
+      <City ID="230600">大庆</City>
+      <City ID="230700">伊春</City>
+      <City ID="230701">铁力</City>
+      <City ID="230800">佳木斯</City>
+      <City ID="230801">同江</City>
+      <City ID="230802">富锦</City>
+      <City ID="230900">七台河</City>
+      <City ID="231000">牡丹江</City>
+      <City ID="231001">海林</City>
+      <City ID="231002">宁安</City>
+      <City ID="231003">穆棱</City>
+      <City ID="231100">黑河</City>
+      <City ID="231101">北安</City>
+      <City ID="231102">五大连池</City>
+      <City ID="231200">绥化</City>
+      <City ID="231201">安达</City>
+      <City ID="231202">肇东</City>
+      <City ID="231203">海伦</City>
+      <City ID="232700">大兴安岭</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>310000</ID>
+    <Name>上海</Name>
+    <ShortName>沪</ShortName>
+    <Citys>
+      <City ID="310000">上海</City>
+      <City ID="310001">黄浦</City>
+      <City ID="310002">浦东</City>
+      <City ID="310003">徐汇</City>
+      <City ID="310004">长宁</City>
+      <City ID="310005">静安</City>
+      <City ID="310006">普陀</City>
+      <City ID="310007">闸北</City>
+      <City ID="310008">虹口</City>
+      <City ID="310009">杨浦</City>
+      <City ID="310010">闵行</City>
+      <City ID="310011">宝山</City>
+      <City ID="310012">嘉定</City>
+      <City ID="310013">金山</City>
+      <City ID="310014">松江</City>
+      <City ID="310015">青浦</City>
+      <City ID="310016">奉贤</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>320000</ID>
+    <Name>江苏</Name>
+    <ShortName>苏</ShortName>
+    <Citys>
+      <City ID="320100">南京</City>
+      <City ID="320300">徐州</City>
+      <City ID="320301">邳州</City>
+      <City ID="320302">新沂</City>
+      <City ID="320400">常州</City>
+      <City ID="320401">金坛</City>
+      <City ID="320402">溧阳</City>
+      <City ID="320500">苏州</City>
+      <City ID="320501">常熟</City>
+      <City ID="320502">张家港</City>
+      <City ID="320503">太仓</City>
+      <City ID="320600">南通</City>
+      <City ID="320601">如皋</City>
+      <City ID="320602">海门</City>
+      <City ID="320603">启东</City>
+      <City ID="320700">连云港</City>
+      <City ID="320900">盐城</City>
+      <City ID="320901">东台</City>
+      <City ID="320902">大丰</City>
+      <City ID="321000">扬州</City>
+      <City ID="321001">高邮</City>
+      <City ID="321002">仪征</City>
+      <City ID="321100">镇江</City>
+      <City ID="321101">丹阳</City>
+      <City ID="321102">扬中</City>
+      <City ID="321103">句容</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>330000</ID>
+    <Name>浙江</Name>
+    <ShortName>浙</ShortName>
+    <Citys>
+      <City ID="330100">杭州</City>
+      <City ID="330101">建德</City>
+      <City ID="330102">富阳</City>
+      <City ID="330103">临安</City>
+      <City ID="330200">宁波</City>
+      <City ID="330201">余姚</City>
+      <City ID="330202">慈溪</City>
+      <City ID="330203">奉化</City>
+      <City ID="330300">温州</City>
+      <City ID="330301">瑞安</City>
+      <City ID="330302">乐清</City>
+      <City ID="330400">嘉兴</City>
+      <City ID="330401">海宁</City>
+      <City ID="330402">平湖</City>
+      <City ID="330403">桐乡</City>
+      <City ID="330500">湖州</City>
+      <City ID="330600">绍兴</City>
+      <City ID="330601">诸暨</City>
+      <City ID="330602">嵊州</City>
+      <City ID="330700">金华</City>
+      <City ID="330701">兰溪</City>
+      <City ID="330702">东阳</City>
+      <City ID="330703">永康</City>
+      <City ID="330800">衢州</City>
+      <City ID="330801">江山</City>
+      <City ID="330900">舟山</City>
+      <City ID="331000">台州</City>
+      <City ID="331001">温岭</City>
+      <City ID="331002">临海</City>
+      <City ID="331100">丽水</City>
+      <City ID="331101">龙泉</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>340000</ID>
+    <Name>安徽</Name>
+    <ShortName>皖</ShortName>
+    <Citys>
+      <City ID="340100">合肥</City>
+      <City ID="340101">巢湖</City>
+      <City ID="340200">芜湖</City>
+      <City ID="340300">蚌埠</City>
+      <City ID="340400">淮南</City>
+      <City ID="340500">马鞍山</City>
+      <City ID="340600">淮北</City>
+      <City ID="340700">铜陵</City>
+      <City ID="340800">安庆</City>
+      <City ID="340801">桐城</City>
+      <City ID="341000">黄山</City>
+      <City ID="341100">滁州</City>
+      <City ID="341101">天长</City>
+      <City ID="341102">明光</City>
+      <City ID="341200">阜阳</City>
+      <City ID="341201">界首</City>
+      <City ID="341300">宿州</City>
+      <City ID="341400">巢湖</City>
+      <City ID="341500">六安</City>
+      <City ID="341600">亳州</City>
+      <City ID="341700">池州</City>
+      <City ID="341800">宣城</City>
+      <City ID="341801">宁国</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>350000</ID>
+    <Name>福建</Name>
+    <ShortName>闽</ShortName>
+    <Citys>
+      <City ID="350100">福州</City>
+      <City ID="350101">福清</City>
+      <City ID="350102">长乐</City>
+      <City ID="350200">厦门</City>
+      <City ID="350300">莆田</City>
+      <City ID="350400">三明</City>
+      <City ID="350401">永安</City>
+      <City ID="350500">泉州</City>
+      <City ID="350501">石狮</City>
+      <City ID="350502">晋江</City>
+      <City ID="350503">南安</City>
+      <City ID="350600">漳州</City>
+      <City ID="350601">龙海</City>
+      <City ID="350700">南平</City>
+      <City ID="350701">邵武</City>
+      <City ID="350702">武夷山</City>
+      <City ID="350703">建瓯</City>
+      <City ID="350704">建阳</City>
+      <City ID="350800">龙岩</City>
+      <City ID="350801">漳平</City>
+      <City ID="350900">宁德</City>
+      <City ID="350901">福安</City>
+      <City ID="350902">福鼎</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>370000</ID>
+    <Name>山东</Name>
+    <ShortName>鲁</ShortName>
+    <Citys>
+      <City ID="370100">济南</City>
+      <City ID="370101">章丘</City>
+      <City ID="370200">青岛</City>
+      <City ID="370201">即墨</City>
+      <City ID="370202">胶州</City>
+      <City ID="370203">平度</City>
+      <City ID="370204">莱西</City>
+      <City ID="370300">淄博</City>
+      <City ID="370400">枣庄</City>
+      <City ID="370401">滕州</City>
+      <City ID="370500">东营</City>
+      <City ID="370600">烟台</City>
+      <City ID="370601">龙口</City>
+      <City ID="370602">莱阳</City>
+      <City ID="370603">莱州</City>
+      <City ID="370604">蓬莱</City>
+      <City ID="370605">招远</City>
+      <City ID="370606">栖霞</City>
+      <City ID="370607">海阳</City>
+      <City ID="370700">潍坊</City>
+      <City ID="370701">青州</City>
+      <City ID="370702">诸城</City>
+      <City ID="370703">寿光</City>
+      <City ID="370704">安丘</City>
+      <City ID="370705">高密</City>
+      <City ID="370706">昌邑</City>
+      <City ID="370800">济宁</City>
+      <City ID="370801">邹城</City>
+      <City ID="370802">曲阜</City>
+      <City ID="370900">泰安</City>
+      <City ID="370901">新泰</City>
+      <City ID="370902">肥城</City>
+      <City ID="371000">威海</City>
+      <City ID="371001">文登</City>
+      <City ID="371002">荣成</City>
+      <City ID="371003">乳山</City>
+      <City ID="371100">日照</City>
+      <City ID="371200">莱芜</City>
+      <City ID="371300">临沂</City>
+      <City ID="371400">德州</City>
+      <City ID="371401">乐陵</City>
+      <City ID="371402">禹城</City>
+      <City ID="371500">聊城</City>
+      <City ID="371501">临清</City>
+      <City ID="371600">滨州</City>
+      <City ID="371700">菏泽</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>410000</ID>
+    <Name>河南</Name>
+    <ShortName>豫</ShortName>
+    <Citys>
+      <City ID="410100">郑州</City>
+      <City ID="410101">新郑</City>
+      <City ID="410102">登封</City>
+      <City ID="410103">新密</City>
+      <City ID="410104">荥阳</City>
+      <City ID="410200">开封</City>
+      <City ID="410300">洛阳</City>
+      <City ID="410301">偃师</City>
+      <City ID="410500">安阳</City>
+      <City ID="410501">林州</City>
+      <City ID="410600">鹤壁</City>
+      <City ID="410700">新乡</City>
+      <City ID="410701">卫辉</City>
+      <City ID="410702">辉县</City>
+      <City ID="410800">焦作</City>
+      <City ID="410801">沁阳</City>
+      <City ID="410802">孟州</City>
+      <City ID="410900">濮阳</City>
+      <City ID="411000">许昌</City>
+      <City ID="411001">禹州</City>
+      <City ID="411002">长葛</City>
+      <City ID="411200">三门峡</City>
+      <City ID="411201">义马</City>
+      <City ID="411202">灵宝</City>
+      <City ID="411300">南阳</City>
+      <City ID="411400">商丘</City>
+      <City ID="411600">周口</City>
+      <City ID="411601">项城</City>
+      <City ID="411700">驻马店</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>420000</ID>
+    <Name>湖北</Name>
+    <ShortName>鄂</ShortName>
+    <Citys>
+      <City ID="420100">武汉</City>
+      <City ID="420200">黄石</City>
+      <City ID="420201">大冶</City>
+      <City ID="420300">十堰</City>
+      <City ID="420301">丹江口</City>
+      <City ID="420500">宜昌</City>
+      <City ID="420501">宜都</City>
+      <City ID="420502">当阳</City>
+      <City ID="420503">枝江</City>
+      <City ID="420600">襄阳</City>
+      <City ID="420700">鄂州</City>
+      <City ID="420800">荆门</City>
+      <City ID="420801">钟祥</City>
+      <City ID="420900">孝感</City>
+      <City ID="420901">应城</City>
+      <City ID="420902">安陆</City>
+      <City ID="420903">汉川</City>
+      <City ID="421000">荆州</City>
+      <City ID="421001">石首</City>
+      <City ID="421002">洪湖</City>
+      <City ID="421003">松滋</City>
+      <City ID="421100">黄冈</City>
+      <City ID="421101">麻城</City>
+      <City ID="421102">武穴</City>
+      <City ID="421200">咸宁</City>
+      <City ID="421201">赤壁</City>
+      <City ID="421300">随州</City>
+      <City ID="421301">广水</City>
+      <City ID="422800">恩施</City>
+      <City ID="429004">仙桃</City>
+      <City ID="429005">潜江</City>
+      <City ID="429006">天门</City>
+      <City ID="429021">神农架林区</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>430000</ID>
+    <Name>湖南</Name>
+    <ShortName>湘</ShortName>
+    <Citys>
+      <City ID="430200">株洲</City>
+      <City ID="430201">醴陵</City>
+      <City ID="430400">衡阳</City>
+      <City ID="430401">耒阳</City>
+      <City ID="430402">常宁</City>
+      <City ID="430900">益阳</City>
+      <City ID="430901">沅江</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>440000</ID>
+    <Name>广东</Name>
+    <ShortName>粤</ShortName>
+    <Citys>
+      <City ID="440100">广州</City>
+      <City ID="440200">韶关</City>
+      <City ID="440201">乐昌</City>
+      <City ID="440202">南雄</City>
+      <City ID="440300">深圳</City>
+      <City ID="440400">珠海</City>
+      <City ID="440500">汕头</City>
+      <City ID="440600">佛山</City>
+      <City ID="440700">江门</City>
+      <City ID="440701">台山</City>
+      <City ID="440702">开平</City>
+      <City ID="440703">鹤山</City>
+      <City ID="440704">恩平</City>
+      <City ID="440800">湛江</City>
+      <City ID="440801">吴川</City>
+      <City ID="440802">雷州</City>
+      <City ID="440803">廉江</City>
+      <City ID="440900">茂名</City>
+      <City ID="440901">高州</City>
+      <City ID="440902">化州</City>
+      <City ID="440903">信宜</City>
+      <City ID="441200">肇庆</City>
+      <City ID="441201">高要</City>
+      <City ID="441202">四会</City>
+      <City ID="441300">惠州</City>
+      <City ID="441400">梅州</City>
+      <City ID="441401">兴宁</City>
+      <City ID="441500">汕尾</City>
+      <City ID="441501">陆丰</City>
+      <City ID="441600">河源</City>
+      <City ID="441700">阳江</City>
+      <City ID="441701">阳春</City>
+      <City ID="441800">清远</City>
+      <City ID="441801">英德</City>
+      <City ID="441802">连州</City>
+      <City ID="441900">东莞</City>
+      <City ID="442000">中山</City>
+      <City ID="445100">潮州</City>
+      <City ID="445200">揭阳</City>
+      <City ID="445201">普宁</City>
+      <City ID="445300">云浮</City>
+      <City ID="445301">罗定</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>460000</ID>
+    <Name>海南</Name>
+    <ShortName>琼</ShortName>
+    <Citys>
+      <City ID="460100">海口</City>
+      <City ID="460200">三亚</City>
+      <City ID="468000">三沙</City>
+      <City ID="469000">省直辖县级行政单位</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>510000</ID>
+    <Name>四川</Name>
+    <ShortName>川</ShortName>
+    <Citys>
+      <City ID="510100">成都</City>
+      <City ID="510101">都江堰</City>
+      <City ID="510102">彭州</City>
+      <City ID="510103">崇州</City>
+      <City ID="510104">邛崃</City>
+      <City ID="510300">自贡</City>
+      <City ID="510400">攀枝花</City>
+      <City ID="510500">泸州</City>
+      <City ID="510600">德阳</City>
+      <City ID="510601">广汉</City>
+      <City ID="510602">什邡</City>
+      <City ID="510603">绵竹</City>
+      <City ID="510700">绵阳</City>
+      <City ID="510701">江油</City>
+      <City ID="510800">广元</City>
+      <City ID="510900">遂宁</City>
+      <City ID="511000">内江</City>
+      <City ID="511100">乐山</City>
+      <City ID="511101">峨眉山</City>
+      <City ID="511300">南充</City>
+      <City ID="511301">阆中</City>
+      <City ID="511400">眉山</City>
+      <City ID="511500">宜宾</City>
+      <City ID="511600">广安</City>
+      <City ID="511601">华蓥</City>
+      <City ID="511700">达州</City>
+      <City ID="511701">万源</City>
+      <City ID="511800">雅安</City>
+      <City ID="511900">巴中</City>
+      <City ID="512000">资阳</City>
+      <City ID="512001">简阳</City>
+      <City ID="513200">阿坝</City>
+      <City ID="513300">甘孜</City>
+      <City ID="513400">凉山</City>
+      <City ID="513401">西昌</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>520000</ID>
+    <Name>贵州</Name>
+    <ShortName>贵</ShortName>
+    <Citys>
+      <City ID="520100">贵阳</City>
+      <City ID="520101">清镇</City>
+      <City ID="520200">六盘水</City>
+      <City ID="520300">遵义</City>
+      <City ID="520301">赤水</City>
+      <City ID="520400">安顺</City>
+      <City ID="522200">铜仁</City>
+      <City ID="522300">黔西</City>
+      <City ID="522400">毕节</City>
+      <City ID="522600">黔东南</City>
+      <City ID="522601">凯里</City>
+      <City ID="522700">黔南</City>
+      <City ID="522701">都匀</City>
+      <City ID="522702">福泉</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>530000</ID>
+    <Name>云南</Name>
+    <ShortName>云</ShortName>
+    <Citys>
+      <City ID="530100">昆明</City>
+      <City ID="530101">安宁</City>
+      <City ID="530300">曲靖</City>
+      <City ID="530301">宣威</City>
+      <City ID="530400">玉溪</City>
+      <City ID="530500">保山</City>
+      <City ID="530600">昭通</City>
+      <City ID="530700">丽江</City>
+      <City ID="530800">思茅</City>
+      <City ID="530900">临沧</City>
+      <City ID="532300">楚雄</City>
+      <City ID="532500">红河</City>
+      <City ID="532501">蒙自</City>
+      <City ID="532502">个旧</City>
+      <City ID="532503">开远</City>
+      <City ID="532504">弥勒</City>
+      <City ID="532600">文山</City>
+      <City ID="532700">普洱</City>
+      <City ID="532800">西双版纳</City>
+      <City ID="532900">大理</City>
+      <City ID="533100">德宏</City>
+      <City ID="533101">瑞丽</City>
+      <City ID="533300">怒江</City>
+      <City ID="533400">迪庆</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>610000</ID>
+    <Name>陕西</Name>
+    <ShortName>陕</ShortName>
+    <Citys>
+      <City ID="610100">西安</City>
+      <City ID="610200">铜川</City>
+      <City ID="610300">宝鸡</City>
+      <City ID="610400">咸阳</City>
+      <City ID="610401">兴平</City>
+      <City ID="610500">渭南</City>
+      <City ID="610501">韩城</City>
+      <City ID="610502">华阴</City>
+      <City ID="610600">延安</City>
+      <City ID="610700">汉中</City>
+      <City ID="610800">榆林</City>
+      <City ID="610900">安康</City>
+      <City ID="611000">商洛</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>620000</ID>
+    <Name>甘肃</Name>
+    <ShortName>甘</ShortName>
+    <Citys>
+      <City ID="620100">兰州</City>
+      <City ID="620200">嘉峪关</City>
+      <City ID="620300">金昌</City>
+      <City ID="620400">白银</City>
+      <City ID="620500">天水</City>
+      <City ID="620600">武威</City>
+      <City ID="620700">张掖</City>
+      <City ID="620800">平凉</City>
+      <City ID="620900">酒泉</City>
+      <City ID="621000">庆阳</City>
+      <City ID="621100">定西</City>
+      <City ID="621200">陇南</City>
+      <City ID="622900">临夏</City>
+      <City ID="623000">甘南</City>
+      <City ID="623001">合作</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>630000</ID>
+    <Name>青海</Name>
+    <ShortName>青</ShortName>
+    <Citys>
+      <City ID="630100">西宁</City>
+      <City ID="632100">海东</City>
+      <City ID="632200">海北</City>
+      <City ID="632300">黄南</City>
+      <City ID="632500">海南</City>
+      <City ID="632600">果洛</City>
+      <City ID="632700">玉树</City>
+      <City ID="632800">海西</City>
+      <City ID="632801">德令哈</City>
+      <City ID="632802">格尔木</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>640000</ID>
+    <Name>宁夏</Name>
+    <ShortName>宁</ShortName>
+    <Citys>
+      <City ID="640100">银川</City>
+      <City ID="640101">灵武</City>
+      <City ID="640200">石嘴山</City>
+      <City ID="640300">吴忠</City>
+      <City ID="640301">青铜峡</City>
+      <City ID="640400">固原</City>
+      <City ID="640500">中卫</City>
+    </Citys>
+  </Province>
+  <Province>
+    <ID>650000</ID>
+    <Name>新疆</Name>
+    <ShortName>新</ShortName>
+    <Citys>
+      <City ID="650100">乌鲁木齐</City>
+      <City ID="650200">克拉玛依</City>
+      <City ID="652100">吐鲁番</City>
+      <City ID="652200">哈密</City>
+      <City ID="652300">昌吉</City>
+      <City ID="652700">博尔塔拉</City>
+      <City ID="652701">博乐</City>
+      <City ID="652702">阿拉山口</City>
+      <City ID="652800">巴音郭楞</City>
+      <City ID="652801">库尔勒</City>
+      <City ID="652900">阿克苏</City>
+      <City ID="653000">克孜勒苏</City>
+      <City ID="653001">阿图什</City>
+      <City ID="653100">喀什</City>
+      <City ID="653200">和田</City>
+      <City ID="654000">伊犁</City>
+      <City ID="654001">伊宁</City>
+      <City ID="654002">奎屯</City>
+      <City ID="654200">塔城</City>
+      <City ID="654201">乌苏</City>
+      <City ID="654300">阿勒泰</City>
+      <City ID="659001">石河子</City>
+      <City ID="659002">阿拉尔</City>
+      <City ID="659003">图木舒克</City>
+      <City ID="659004">五家渠</City>
+    </Citys>
+  </Province>
+</root>

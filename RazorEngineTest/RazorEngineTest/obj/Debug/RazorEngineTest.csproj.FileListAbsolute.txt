@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\测试项目\RazorEngineTest\RazorEngineTest\bin\RazorEngineTest.dll
+C:\Users\Administrator\Desktop\测试项目\RazorEngineTest\RazorEngineTest\bin\RazorEngineTest.pdb
+C:\Users\Administrator\Desktop\测试项目\RazorEngineTest\RazorEngineTest\obj\Debug\RazorEngineTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\RazorEngineTest\RazorEngineTest\obj\Debug\RazorEngineTest.dll
+C:\Users\Administrator\Desktop\测试项目\RazorEngineTest\RazorEngineTest\obj\Debug\RazorEngineTest.pdb
+C:\Users\Administrator\Desktop\测试项目\RazorEngineTest\RazorEngineTest\bin\RazorEngine.dll

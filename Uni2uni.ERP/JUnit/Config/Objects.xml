@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net">
+
+  <!--持久层-->
+  <object id="ProductCategoryRepository" type="Uni2uni.ERP.Infrastructure.ProductCategoryRepository,Uni2uni.ERP.Infrastructure" singleton="false"></object>
+  <object id="ProductRepository" type="Uni2uni.ERP.Infrastructure.ProductRepository,Uni2uni.ERP.Infrastructure" singleton="false"></object>
+
+  <!--服务层-->
+  <object id="ProductCategoryService" type="Uni2uni.ERP.Service.ProductCategoryService,Uni2uni.ERP.Service" singleton="false"></object>
+  <object id="ProductService" type="Uni2uni.ERP.Service.ProductService,Uni2uni.ERP.Service" singleton="false"></object>
+
+
+  <object id="aroundAdvice" type="Uni2Uni.ERP.AOP.AroundAdvice, Uni2Uni.ERP.AOP"></object>
+  <object id="beforeAdvice" type="Uni2Uni.ERP.AOP.BeforeAdvice, Uni2Uni.ERP.AOP"></object>
+  <object id="afterReturningAdvice" type="Uni2Uni.ERP.AOP.AfterReturningAdvice, Uni2Uni.ERP.AOP"></object>
+  <object id="throwsAdvice" type="Uni2Uni.ERP.AOP.ThrowsAdvice, Uni2Uni.ERP.AOP"></object>
+  
+  <!--配置AOP代理对象-->
+  <object id="ProxyCreator" type="Spring.Aop.Framework.AutoProxy.ObjectNameAutoProxyCreator, Spring.Aop">
+    <!--代理的目标对象列表-->
+    <property name="ObjectNames">
+      <list>
+        <!--这里可能需要代理的对象太多，Spring.Net  帮我们提供了通配符的匹配方式，如："*name"，"name*"，”*name*“和精确文本如"name"。而且还提供了正则表达式的匹配方式-->
+        <value>*Service</value>
+      </list>
+    </property>
+
+    <!--AOP代理对象中，使用的通知实例-->
+    <property name="InterceptorNames">
+      <list>
+        <value>aroundAdvice</value>
+        <value>beforeAdvice</value>
+        <value>afterReturningAdvice</value>
+        <value>throwsAdvice</value>
+      </list>
+    </property>
+    
+  </object>
+
+</objects>

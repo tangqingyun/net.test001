@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.IInfrastructure\bin\Debug\EntityFramework.MVC.IInfrastructure.dll
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.IInfrastructure\bin\Debug\EntityFramework.MVC.IInfrastructure.pdb
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.IInfrastructure\bin\Debug\EntityFramework.MVC.Domain.dll
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.IInfrastructure\bin\Debug\EntityFramework.MVC.Domain.pdb
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.IInfrastructure\obj\Debug\EntityFramework.MVC.IInfrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.IInfrastructure\obj\Debug\EntityFramework.MVC.IInfrastructure.dll
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.IInfrastructure\obj\Debug\EntityFramework.MVC.IInfrastructure.pdb

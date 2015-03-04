@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <link href="@Url.Content("~/Content/themes/default.css")" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+    <div class="page">
+
+        <div id="header">
+            <div id="title">
+                <h1>ASP.NET MvcPager Demo</h1>
+            </div>
+              
+        </div>
+
+<div id="main">
+
+  <div id="rightColumn">
+    @RenderBody()
+    </div>
+
+            <div id="footer">
+            <hr style="height:1px;width:100%;clear:both" />
+            &copy; 2009-2011 <a href="http://en.webdiyer.com" target="_blank">Webdiyer</a>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

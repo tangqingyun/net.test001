@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\测试项目\Login51CTO\TestSite\bin\TestSite.dll
+C:\Users\Administrator\Desktop\测试项目\Login51CTO\TestSite\bin\TestSite.pdb
+C:\Users\Administrator\Desktop\测试项目\Login51CTO\TestSite\obj\Debug\TestSite.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\Login51CTO\TestSite\obj\Debug\TestSite.dll
+C:\Users\Administrator\Desktop\测试项目\Login51CTO\TestSite\obj\Debug\TestSite.pdb
+F:\qingyun.tang\My.Test.Projects\测试项目\Login51CTO\TestSite\bin\TestSite.dll
+F:\qingyun.tang\My.Test.Projects\测试项目\Login51CTO\TestSite\bin\TestSite.pdb
+F:\qingyun.tang\My.Test.Projects\测试项目\Login51CTO\TestSite\obj\Debug\TestSite.csprojResolveAssemblyReference.cache
+F:\qingyun.tang\My.Test.Projects\测试项目\Login51CTO\TestSite\obj\Debug\TestSite.dll
+F:\qingyun.tang\My.Test.Projects\测试项目\Login51CTO\TestSite\obj\Debug\TestSite.pdb

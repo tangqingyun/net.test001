@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\测试项目\SiteLoginTamny\SiteLoginTamny\bin\Debug\SiteLoginTamny.exe
+C:\Users\Administrator\Desktop\测试项目\SiteLoginTamny\SiteLoginTamny\bin\Debug\SiteLoginTamny.pdb
+C:\Users\Administrator\Desktop\测试项目\SiteLoginTamny\SiteLoginTamny\obj\Debug\SiteLoginTamny.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\SiteLoginTamny\SiteLoginTamny\obj\Debug\SiteLoginTamny.MainForm.resources
+C:\Users\Administrator\Desktop\测试项目\SiteLoginTamny\SiteLoginTamny\obj\Debug\SiteLoginTamny.Properties.Resources.resources
+C:\Users\Administrator\Desktop\测试项目\SiteLoginTamny\SiteLoginTamny\obj\Debug\SiteLoginTamny.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\测试项目\SiteLoginTamny\SiteLoginTamny\obj\Debug\SiteLoginTamny.exe
+C:\Users\Administrator\Desktop\测试项目\SiteLoginTamny\SiteLoginTamny\obj\Debug\SiteLoginTamny.pdb

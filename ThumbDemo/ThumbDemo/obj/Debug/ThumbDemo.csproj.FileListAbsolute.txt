@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\ThumbDemo\ThumbDemo\obj\Debug\ThumbDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ThumbDemo\ThumbDemo\bin\ThumbDemo.dll
+C:\Users\Administrator\Desktop\ThumbDemo\ThumbDemo\bin\ThumbDemo.pdb
+C:\Users\Administrator\Desktop\ThumbDemo\ThumbDemo\obj\Debug\ThumbDemo.dll
+C:\Users\Administrator\Desktop\ThumbDemo\ThumbDemo\obj\Debug\ThumbDemo.pdb

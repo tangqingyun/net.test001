@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityIOC", "UnityIOC\UnityIOC.csproj", "{DBCE33AD-8CB2-4054-A54C-794B355B3248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDal", "IDal\IDal.csproj", "{BBD2D23B-AF71-4FAC-AD89-E9D810F5DB42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{B83692BE-58AC-4B84-B28B-E805AC0D2782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCE33AD-8CB2-4054-A54C-794B355B3248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCE33AD-8CB2-4054-A54C-794B355B3248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCE33AD-8CB2-4054-A54C-794B355B3248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCE33AD-8CB2-4054-A54C-794B355B3248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD2D23B-AF71-4FAC-AD89-E9D810F5DB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD2D23B-AF71-4FAC-AD89-E9D810F5DB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD2D23B-AF71-4FAC-AD89-E9D810F5DB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD2D23B-AF71-4FAC-AD89-E9D810F5DB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B83692BE-58AC-4B84-B28B-E805AC0D2782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83692BE-58AC-4B84-B28B-E805AC0D2782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83692BE-58AC-4B84-B28B-E805AC0D2782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83692BE-58AC-4B84-B28B-E805AC0D2782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

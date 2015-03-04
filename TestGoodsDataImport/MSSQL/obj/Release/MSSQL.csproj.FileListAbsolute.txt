@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\测试项目\TestGoodsDataImport\MSSQL\bin\Release\MSSQL.dll
+C:\Users\Administrator\Desktop\测试项目\TestGoodsDataImport\MSSQL\bin\Release\MSSQL.pdb
+C:\Users\Administrator\Desktop\测试项目\TestGoodsDataImport\MSSQL\obj\Release\MSSQL.dll
+C:\Users\Administrator\Desktop\测试项目\TestGoodsDataImport\MSSQL\obj\Release\MSSQL.pdb

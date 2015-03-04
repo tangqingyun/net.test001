@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.DomainMapping\bin\Debug\EntityFramework.MVC.DomainMapping.dll
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.DomainMapping\bin\Debug\EntityFramework.MVC.DomainMapping.pdb
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.DomainMapping\obj\Debug\EntityFramework.MVC.DomainMapping.dll
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.DomainMapping\obj\Debug\EntityFramework.MVC.DomainMapping.pdb
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.DomainMapping\bin\Debug\EntityFramework.MVC.Common.dll
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.DomainMapping\bin\Debug\EntityFramework.MVC.Domain.dll
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.DomainMapping\bin\Debug\EntityFramework.MVC.Common.pdb
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.DomainMapping\bin\Debug\EntityFramework.MVC.Domain.pdb
+C:\Users\Administrator\Desktop\EntityFramework.MVC\EntityFramework.MVC.DomainMapping\obj\Debug\EntityFramework.MVC.DomainMapping.csprojResolveAssemblyReference.cache

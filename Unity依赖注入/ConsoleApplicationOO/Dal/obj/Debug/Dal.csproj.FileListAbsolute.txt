@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\ConsoleApplicationOO\Dal\bin\Debug\Dal.dll
+C:\Users\Administrator\Desktop\ConsoleApplicationOO\Dal\bin\Debug\Dal.pdb
+C:\Users\Administrator\Desktop\ConsoleApplicationOO\Dal\bin\Debug\IDal.dll
+C:\Users\Administrator\Desktop\ConsoleApplicationOO\Dal\bin\Debug\IDal.pdb
+C:\Users\Administrator\Desktop\ConsoleApplicationOO\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ConsoleApplicationOO\Dal\obj\Debug\Dal.dll
+C:\Users\Administrator\Desktop\ConsoleApplicationOO\Dal\obj\Debug\Dal.pdb
+C:\Users\Administrator\Desktop\ConsoleApplicationOO\ConsoleApplicationOO\bin\Debug\Dal.dll
+C:\Users\Administrator\Desktop\ConsoleApplicationOO\ConsoleApplicationOO\bin\Debug\Dal.pdb
+C:\Users\Administrator\Desktop\Unity依赖注入\ConsoleApplicationOO\ConsoleApplicationOO\bin\Debug\Dal.dll
+C:\Users\Administrator\Desktop\Unity依赖注入\ConsoleApplicationOO\ConsoleApplicationOO\bin\Debug\Dal.pdb
+C:\Users\Administrator\Desktop\Unity依赖注入\ConsoleApplicationOO\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Unity依赖注入\ConsoleApplicationOO\Dal\obj\Debug\Dal.dll
+C:\Users\Administrator\Desktop\Unity依赖注入\ConsoleApplicationOO\Dal\obj\Debug\Dal.pdb

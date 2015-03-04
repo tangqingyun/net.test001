@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="CD19638A-9EEE-4167-97F1-E661D6BE4DA6" ModuleId="ConsoleApplication1" />
+  <Module PersistentId="517EACD6-54F5-44DB-8BE4-44534FFF9670" ModuleId="IDal" />
+  <Module PersistentId="AB9542BD-505C-4782-AC4D-C179FEE5D4C8" ModuleId="Dal" />
+</Modules>

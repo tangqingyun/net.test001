@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\测试项目\TestPaginationAjax\TestPaginationAjax\bin\TestPaginationAjax.dll
+C:\Users\Administrator\Desktop\测试项目\TestPaginationAjax\TestPaginationAjax\bin\TestPaginationAjax.pdb
+C:\Users\Administrator\Desktop\测试项目\TestPaginationAjax\TestPaginationAjax\obj\Debug\TestPaginationAjax.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\TestPaginationAjax\TestPaginationAjax\obj\Debug\TestPaginationAjax.dll
+C:\Users\Administrator\Desktop\测试项目\TestPaginationAjax\TestPaginationAjax\obj\Debug\TestPaginationAjax.pdb

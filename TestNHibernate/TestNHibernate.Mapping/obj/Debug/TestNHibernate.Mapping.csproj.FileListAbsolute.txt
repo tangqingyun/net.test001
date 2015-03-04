@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Mapping\bin\Debug\TestNHibernate.Mapping.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Mapping\bin\Debug\TestNHibernate.Mapping.pdb
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Mapping\obj\Debug\TestNHibernate.Mapping.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Mapping\obj\Debug\TestNHibernate.Mapping.pdb
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Mapping\obj\Debug\TestNHibernate.Mapping.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Mapping\bin\Debug\FluentNHibernate.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Mapping\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Mapping\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Mapping\bin\Debug\TestNHibernate.Domain.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Mapping\bin\Debug\TestNHibernate.Domain.pdb
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Mapping\bin\Debug\FluentNHibernate.xml
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Mapping\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Mapping\bin\Debug\NHibernate.xml

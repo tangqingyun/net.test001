@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2012\Projects\TestEvent\TestEventTwo\bin\Debug\TestEventTwo.exe
+c:\users\administrator\documents\visual studio 2012\Projects\TestEvent\TestEventTwo\bin\Debug\TestEventTwo.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\TestEvent\TestEventTwo\obj\Debug\TestEventTwo.exe
+c:\users\administrator\documents\visual studio 2012\Projects\TestEvent\TestEventTwo\obj\Debug\TestEventTwo.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\TestEvent\TestEventTwo\obj\Debug\TestEventTwo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\事件与委托\TestEventTwo\obj\Debug\TestEventTwo.exe
+C:\Users\Administrator\Desktop\测试项目\事件与委托\TestEventTwo\obj\Debug\TestEventTwo.pdb

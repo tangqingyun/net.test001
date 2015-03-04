@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\EntityFramework.MVC\JUnitTest\bin\Debug\JUnitTest.dll
+C:\Users\Administrator\Desktop\EntityFramework.MVC\JUnitTest\bin\Debug\JUnitTest.pdb
+C:\Users\Administrator\Desktop\EntityFramework.MVC\JUnitTest\obj\Debug\JUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EntityFramework.MVC\JUnitTest\obj\Debug\JUnitTest.dll
+C:\Users\Administrator\Desktop\EntityFramework.MVC\JUnitTest\obj\Debug\JUnitTest.pdb
+C:\Users\Administrator\Desktop\EntityFramework.MVC\JUnitTest\bin\Debug\EntityFramework.MVC.Domain.dll
+C:\Users\Administrator\Desktop\EntityFramework.MVC\JUnitTest\bin\Debug\EntityFramework.MVC.EF.dll
+C:\Users\Administrator\Desktop\EntityFramework.MVC\JUnitTest\bin\Debug\EntityFramework.MVC.Domain.pdb
+C:\Users\Administrator\Desktop\EntityFramework.MVC\JUnitTest\bin\Debug\EntityFramework.MVC.EF.pdb
+C:\Users\Administrator\Desktop\EntityFramework.MVC\JUnitTest\bin\Debug\EntityFramework.MVC.DomainMapping.dll
+C:\Users\Administrator\Desktop\EntityFramework.MVC\JUnitTest\bin\Debug\EntityFramework.MVC.DomainMapping.pdb

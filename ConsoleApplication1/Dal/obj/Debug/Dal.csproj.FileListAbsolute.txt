@@ -1,0 +1,14 @@
+D:\temp\ConsoleApplication1\Dal\bin\Debug\Dal.dll
+D:\temp\ConsoleApplication1\Dal\bin\Debug\Dal.pdb
+D:\temp\ConsoleApplication1\Dal\bin\Debug\IDal.dll
+D:\temp\ConsoleApplication1\Dal\bin\Debug\IDal.pdb
+D:\temp\ConsoleApplication1\Dal\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\ConsoleApplication1\Dal\obj\Debug\Dal.dll
+D:\temp\ConsoleApplication1\Dal\obj\Debug\Dal.pdb
+C:\Users\Administrator\Desktop\ConsoleApplication1\Dal\bin\Debug\Dal.dll
+C:\Users\Administrator\Desktop\ConsoleApplication1\Dal\bin\Debug\Dal.pdb
+C:\Users\Administrator\Desktop\ConsoleApplication1\Dal\bin\Debug\IDal.dll
+C:\Users\Administrator\Desktop\ConsoleApplication1\Dal\bin\Debug\IDal.pdb
+C:\Users\Administrator\Desktop\ConsoleApplication1\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ConsoleApplication1\Dal\obj\Debug\Dal.dll
+C:\Users\Administrator\Desktop\ConsoleApplication1\Dal\obj\Debug\Dal.pdb

@@ -1,0 +1,16 @@
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.Form1.resources
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.Properties.Resources.resources
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.csproj.GenerateResource.Cache
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\bin\Debug\TrainTicketLogin.exe
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\bin\Debug\TrainTicketLogin.pdb
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.exe
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.pdb
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.exe
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.pdb
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\bin\Debug\TrainTicketLogin.exe
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\bin\Debug\TrainTicketLogin.pdb
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.Form1.resources
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2Uni.ERP.Models\bin\Debug\Uni2Uni.ERP.Models.dll
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2Uni.ERP.Models\bin\Debug\Uni2Uni.ERP.Models.pdb
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2Uni.ERP.Models\obj\Debug\Uni2Uni.ERP.Models.dll
+C:\Users\Administrator\Desktop\测试项目\Uni2uni.ERP\Uni2Uni.ERP.Models\obj\Debug\Uni2Uni.ERP.Models.pdb

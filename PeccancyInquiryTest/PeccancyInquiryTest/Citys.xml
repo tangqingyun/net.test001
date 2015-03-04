@@ -1,0 +1,2358 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  
+  <北京>
+    <cityCode>110000</cityCode>
+    <cityName>北京</cityName>
+  </北京>
+  <北京>
+    <cityCode>110001</cityCode>
+    <cityName>东城</cityName>
+  </北京>
+  <北京>
+    <cityCode>110002</cityCode>
+    <cityName>西城</cityName>
+  </北京>
+  <北京>
+    <cityCode>110003</cityCode>
+    <cityName>海淀</cityName>
+  </北京>
+  <北京>
+    <cityCode>110004</cityCode>
+    <cityName>朝阳</cityName>
+  </北京>
+  <北京>
+    <cityCode>110005</cityCode>
+    <cityName>丰台</cityName>
+  </北京>
+  <北京>
+    <cityCode>110006</cityCode>
+    <cityName>石景山</cityName>
+  </北京>
+  <北京>
+    <cityCode>110007</cityCode>
+    <cityName>通州</cityName>
+  </北京>
+  <北京>
+    <cityCode>110008</cityCode>
+    <cityName>顺义</cityName>
+  </北京>
+  <北京>
+    <cityCode>110009</cityCode>
+    <cityName>房山</cityName>
+  </北京>
+  <北京>
+    <cityCode>110010</cityCode>
+    <cityName>大兴</cityName>
+  </北京>
+  <北京>
+    <cityCode>110011</cityCode>
+    <cityName>昌平</cityName>
+  </北京>
+  <北京>
+    <cityCode>110012</cityCode>
+    <cityName>怀柔</cityName>
+  </北京>
+  <北京>
+    <cityCode>110013</cityCode>
+    <cityName>平谷</cityName>
+  </北京>
+  <北京>
+    <cityCode>110014</cityCode>
+    <cityName>门头沟</cityName>
+  </北京>
+  
+  
+<河北>
+  <cityCode>130100</cityCode>
+  <cityName>石家庄</cityName>
+</河北>
+<河北>
+  <cityCode>130101</cityCode>
+  <cityName>鹿泉</cityName>
+</河北>
+<河北>
+  <cityCode>130102</cityCode>
+  <cityName>晋州</cityName>
+</河北>
+<河北>
+  <cityCode>130103</cityCode>
+  <cityName>新乐</cityName>
+</河北>
+<河北>
+  <cityCode>130104</cityCode>
+  <cityName>藁城</cityName>
+</河北>
+<河北>
+  <cityCode>130200</cityCode>
+  <cityName>唐山</cityName>
+</河北>
+<河北>
+  <cityCode>130201</cityCode>
+  <cityName>遵化</cityName>
+</河北>
+<河北>
+  <cityCode>130202</cityCode>
+  <cityName>迁安</cityName>
+</河北>
+<河北>
+  <cityCode>130300</cityCode>
+  <cityName>秦皇岛</cityName>
+</河北>
+<河北>
+  <cityCode>130400</cityCode>
+  <cityName>邯郸</cityName>
+</河北>
+<河北>
+  <cityCode>130401</cityCode>
+  <cityName>武安</cityName>
+</河北>
+<河北>
+  <cityCode>130500</cityCode>
+  <cityName>邢台</cityName>
+</河北>
+<河北>
+  <cityCode>130501</cityCode>
+  <cityName>沙河</cityName>
+</河北>
+<河北>
+  <cityCode>130502</cityCode>
+  <cityName>南宫</cityName>
+</河北>
+<河北>
+  <cityCode>130600</cityCode>
+  <cityName>保定</cityName>
+</河北>
+<河北>
+  <cityCode>130601</cityCode>
+  <cityName>涿州</cityName>
+</河北>
+<河北>
+  <cityCode>130602</cityCode>
+  <cityName>安国</cityName>
+</河北>
+<河北>
+  <cityCode>130603</cityCode>
+  <cityName>高碑店</cityName>
+</河北>
+<河北>
+  <cityCode>130700</cityCode>
+  <cityName>张家口</cityName>
+</河北>
+<河北>
+  <cityCode>130800</cityCode>
+  <cityName>承德</cityName>
+</河北>
+<河北>
+  <cityCode>130900</cityCode>
+  <cityName>沧州</cityName>
+</河北>
+<河北>
+  <cityCode>130901</cityCode>
+  <cityName>泊头</cityName>
+</河北>
+<河北>
+  <cityCode>130902</cityCode>
+  <cityName>任丘</cityName>
+</河北>
+<河北>
+  <cityCode>130903</cityCode>
+  <cityName>黄骅</cityName>
+</河北>
+<河北>
+  <cityCode>130904</cityCode>
+  <cityName>河间</cityName>
+</河北>
+<河北>
+  <cityCode>131000</cityCode>
+  <cityName>廊坊</cityName>
+</河北>
+<河北>
+  <cityCode>131001</cityCode>
+  <cityName>霸州</cityName>
+</河北>
+<河北>
+  <cityCode>131002</cityCode>
+  <cityName>三河</cityName>
+</河北>
+<河北>
+  <cityCode>131100</cityCode>
+  <cityName>衡水</cityName>
+</河北>
+<河北>
+  <cityCode>131101</cityCode>
+  <cityName>冀州</cityName>
+</河北>
+<河北>
+  <cityCode>131102</cityCode>
+  <cityName>深州</cityName>
+</河北>
+<山西>
+  <cityCode>140100</cityCode>
+  <cityName>太原</cityName>
+</山西>
+<山西>
+  <cityCode>140101</cityCode>
+  <cityName>古交</cityName>
+</山西>
+<山西>
+  <cityCode>140200</cityCode>
+  <cityName>大同</cityName>
+</山西>
+<山西>
+  <cityCode>140300</cityCode>
+  <cityName>阳泉</cityName>
+</山西>
+<山西>
+  <cityCode>140400</cityCode>
+  <cityName>长治</cityName>
+</山西>
+<山西>
+  <cityCode>140401</cityCode>
+  <cityName>潞城</cityName>
+</山西>
+<山西>
+  <cityCode>140500</cityCode>
+  <cityName>晋城</cityName>
+</山西>
+<山西>
+  <cityCode>140501</cityCode>
+  <cityName>高平</cityName>
+</山西>
+<山西>
+  <cityCode>140600</cityCode>
+  <cityName>朔州</cityName>
+</山西>
+<山西>
+  <cityCode>140700</cityCode>
+  <cityName>晋中</cityName>
+</山西>
+<山西>
+  <cityCode>140701</cityCode>
+  <cityName>介休</cityName>
+</山西>
+<山西>
+  <cityCode>140800</cityCode>
+  <cityName>运城</cityName>
+</山西>
+<山西>
+  <cityCode>140801</cityCode>
+  <cityName>河津</cityName>
+</山西>
+<山西>
+  <cityCode>140802</cityCode>
+  <cityName>永济</cityName>
+</山西>
+<山西>
+  <cityCode>140900</cityCode>
+  <cityName>忻州</cityName>
+</山西>
+<山西>
+  <cityCode>140901</cityCode>
+  <cityName>原平</cityName>
+</山西>
+<山西>
+  <cityCode>141000</cityCode>
+  <cityName>临汾</cityName>
+</山西>
+<山西>
+  <cityCode>141001</cityCode>
+  <cityName>侯马</cityName>
+</山西>
+<山西>
+  <cityCode>141002</cityCode>
+  <cityName>霍州</cityName>
+</山西>
+<山西>
+  <cityCode>141100</cityCode>
+  <cityName>吕梁</cityName>
+</山西>
+<山西>
+  <cityCode>141101</cityCode>
+  <cityName>孝义</cityName>
+</山西>
+<山西>
+  <cityCode>141102</cityCode>
+  <cityName>汾阳</cityName>
+</山西>
+<内蒙古>
+  <cityCode>150100</cityCode>
+  <cityName>呼和浩特</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150200</cityCode>
+  <cityName>包头</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150300</cityCode>
+  <cityName>乌海</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150400</cityCode>
+  <cityName>赤峰</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150500</cityCode>
+  <cityName>通辽</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150501</cityCode>
+  <cityName>霍林郭勒</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150600</cityCode>
+  <cityName>鄂尔多斯</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150700</cityCode>
+  <cityName>呼伦贝尔</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150701</cityCode>
+  <cityName>满洲里</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150702</cityCode>
+  <cityName>扎兰屯</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150703</cityCode>
+  <cityName>牙克石</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150704</cityCode>
+  <cityName>根河</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150705</cityCode>
+  <cityName>额尔古纳</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150800</cityCode>
+  <cityName>巴彦淖尔</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150900</cityCode>
+  <cityName>乌兰察布</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>150901</cityCode>
+  <cityName>丰镇</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>152200</cityCode>
+  <cityName>兴安盟</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>152500</cityCode>
+  <cityName>锡林郭勒盟</cityName>
+</内蒙古>
+<内蒙古>
+  <cityCode>152900</cityCode>
+  <cityName>阿拉善盟</cityName>
+</内蒙古>
+<辽宁>
+  <cityCode>210100</cityCode>
+  <cityName>沈阳</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210101</cityCode>
+  <cityName>新民</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210200</cityCode>
+  <cityName>大连</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210201</cityCode>
+  <cityName>瓦房店</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210202</cityCode>
+  <cityName>普兰店</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210203</cityCode>
+  <cityName>庄河</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210300</cityCode>
+  <cityName>鞍山</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210301</cityCode>
+  <cityName>海城</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210400</cityCode>
+  <cityName>抚顺</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210600</cityCode>
+  <cityName>丹东</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210601</cityCode>
+  <cityName>凤城</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210602</cityCode>
+  <cityName>东港</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210800</cityCode>
+  <cityName>营口</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210801</cityCode>
+  <cityName>大石桥</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210802</cityCode>
+  <cityName>盖州</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>210900</cityCode>
+  <cityName>阜新</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>211000</cityCode>
+  <cityName>辽阳</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>211001</cityCode>
+  <cityName>灯塔</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>211300</cityCode>
+  <cityName>朝阳</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>211301</cityCode>
+  <cityName>北票</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>211302</cityCode>
+  <cityName>凌源</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>211400</cityCode>
+  <cityName>葫芦岛</cityName>
+</辽宁>
+<辽宁>
+  <cityCode>211401</cityCode>
+  <cityName>兴城</cityName>
+</辽宁>
+<吉林>
+  <cityCode>220100</cityCode>
+  <cityName>长春</cityName>
+</吉林>
+<吉林>
+  <cityCode>220101</cityCode>
+  <cityName>九台</cityName>
+</吉林>
+<吉林>
+  <cityCode>220102</cityCode>
+  <cityName>榆树</cityName>
+</吉林>
+<吉林>
+  <cityCode>220103</cityCode>
+  <cityName>德惠</cityName>
+</吉林>
+<吉林>
+  <cityCode>220200</cityCode>
+  <cityName>吉林</cityName>
+</吉林>
+<吉林>
+  <cityCode>220300</cityCode>
+  <cityName>四平</cityName>
+</吉林>
+<吉林>
+  <cityCode>220301</cityCode>
+  <cityName>双辽</cityName>
+</吉林>
+<吉林>
+  <cityCode>220400</cityCode>
+  <cityName>辽源</cityName>
+</吉林>
+<吉林>
+  <cityCode>220500</cityCode>
+  <cityName>通化</cityName>
+</吉林>
+<吉林>
+  <cityCode>220501</cityCode>
+  <cityName>集安</cityName>
+</吉林>
+<吉林>
+  <cityCode>220600</cityCode>
+  <cityName>白山</cityName>
+</吉林>
+<吉林>
+  <cityCode>220601</cityCode>
+  <cityName>临江</cityName>
+</吉林>
+<吉林>
+  <cityCode>220700</cityCode>
+  <cityName>松原</cityName>
+</吉林>
+<吉林>
+  <cityCode>220701</cityCode>
+  <cityName>扶余</cityName>
+</吉林>
+<吉林>
+  <cityCode>220800</cityCode>
+  <cityName>白城</cityName>
+</吉林>
+<吉林>
+  <cityCode>220801</cityCode>
+  <cityName>洮南</cityName>
+</吉林>
+<吉林>
+  <cityCode>220802</cityCode>
+  <cityName>大安</cityName>
+</吉林>
+<吉林>
+  <cityCode>222400</cityCode>
+  <cityName>延边</cityName>
+</吉林>
+<吉林>
+  <cityCode>222401</cityCode>
+  <cityName>延吉</cityName>
+</吉林>
+<吉林>
+  <cityCode>222402</cityCode>
+  <cityName>图们</cityName>
+</吉林>
+<吉林>
+  <cityCode>222403</cityCode>
+  <cityName>敦化</cityName>
+</吉林>
+<吉林>
+  <cityCode>222404</cityCode>
+  <cityName>龙井</cityName>
+</吉林>
+<吉林>
+  <cityCode>222405</cityCode>
+  <cityName>珲春</cityName>
+</吉林>
+<吉林>
+  <cityCode>222406</cityCode>
+  <cityName>和龙</cityName>
+</吉林>
+<黑龙江>
+  <cityCode>230100</cityCode>
+  <cityName>哈尔滨</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230101</cityCode>
+  <cityName>五常</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230102</cityCode>
+  <cityName>双城</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230103</cityCode>
+  <cityName>尚志</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230200</cityCode>
+  <cityName>齐齐哈尔</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230201</cityCode>
+  <cityName>讷河</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230300</cityCode>
+  <cityName>鸡西</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230301</cityCode>
+  <cityName>虎林</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230302</cityCode>
+  <cityName>密山</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230400</cityCode>
+  <cityName>鹤岗</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230500</cityCode>
+  <cityName>双鸭山</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230600</cityCode>
+  <cityName>大庆</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230700</cityCode>
+  <cityName>伊春</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230701</cityCode>
+  <cityName>铁力</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230800</cityCode>
+  <cityName>佳木斯</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230801</cityCode>
+  <cityName>同江</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230802</cityCode>
+  <cityName>富锦</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>230900</cityCode>
+  <cityName>七台河</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>231000</cityCode>
+  <cityName>牡丹江</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>231001</cityCode>
+  <cityName>海林</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>231002</cityCode>
+  <cityName>宁安</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>231003</cityCode>
+  <cityName>穆棱</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>231100</cityCode>
+  <cityName>黑河</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>231101</cityCode>
+  <cityName>北安</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>231102</cityCode>
+  <cityName>五大连池</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>231200</cityCode>
+  <cityName>绥化</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>231201</cityCode>
+  <cityName>安达</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>231202</cityCode>
+  <cityName>肇东</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>231203</cityCode>
+  <cityName>海伦</cityName>
+</黑龙江>
+<黑龙江>
+  <cityCode>232700</cityCode>
+  <cityName>大兴安岭</cityName>
+</黑龙江>
+<上海>
+  <cityCode>310000</cityCode>
+  <cityName>上海</cityName>
+</上海>
+<上海>
+  <cityCode>310001</cityCode>
+  <cityName>黄浦</cityName>
+</上海>
+<上海>
+  <cityCode>310002</cityCode>
+  <cityName>浦东</cityName>
+</上海>
+<上海>
+  <cityCode>310003</cityCode>
+  <cityName>徐汇</cityName>
+</上海>
+<上海>
+  <cityCode>310004</cityCode>
+  <cityName>长宁</cityName>
+</上海>
+<上海>
+  <cityCode>310005</cityCode>
+  <cityName>静安</cityName>
+</上海>
+<上海>
+  <cityCode>310006</cityCode>
+  <cityName>普陀</cityName>
+</上海>
+<上海>
+  <cityCode>310007</cityCode>
+  <cityName>闸北</cityName>
+</上海>
+<上海>
+  <cityCode>310008</cityCode>
+  <cityName>虹口</cityName>
+</上海>
+<上海>
+  <cityCode>310009</cityCode>
+  <cityName>杨浦</cityName>
+</上海>
+<上海>
+  <cityCode>310010</cityCode>
+  <cityName>闵行</cityName>
+</上海>
+<上海>
+  <cityCode>310011</cityCode>
+  <cityName>宝山</cityName>
+</上海>
+<上海>
+  <cityCode>310012</cityCode>
+  <cityName>嘉定</cityName>
+</上海>
+<上海>
+  <cityCode>310013</cityCode>
+  <cityName>金山</cityName>
+</上海>
+<上海>
+  <cityCode>310014</cityCode>
+  <cityName>松江</cityName>
+</上海>
+<上海>
+  <cityCode>310015</cityCode>
+  <cityName>青浦</cityName>
+</上海>
+<上海>
+  <cityCode>310016</cityCode>
+  <cityName>奉贤</cityName>
+</上海>
+<江苏>
+  <cityCode>320100</cityCode>
+  <cityName>南京</cityName>
+</江苏>
+<江苏>
+  <cityCode>320300</cityCode>
+  <cityName>徐州</cityName>
+</江苏>
+<江苏>
+  <cityCode>320301</cityCode>
+  <cityName>邳州</cityName>
+</江苏>
+<江苏>
+  <cityCode>320302</cityCode>
+  <cityName>新沂</cityName>
+</江苏>
+<江苏>
+  <cityCode>320400</cityCode>
+  <cityName>常州</cityName>
+</江苏>
+<江苏>
+  <cityCode>320401</cityCode>
+  <cityName>金坛</cityName>
+</江苏>
+<江苏>
+  <cityCode>320402</cityCode>
+  <cityName>溧阳</cityName>
+</江苏>
+<江苏>
+  <cityCode>320500</cityCode>
+  <cityName>苏州</cityName>
+</江苏>
+<江苏>
+  <cityCode>320501</cityCode>
+  <cityName>常熟</cityName>
+</江苏>
+<江苏>
+  <cityCode>320502</cityCode>
+  <cityName>张家港</cityName>
+</江苏>
+<江苏>
+  <cityCode>320503</cityCode>
+  <cityName>太仓</cityName>
+</江苏>
+<江苏>
+  <cityCode>320600</cityCode>
+  <cityName>南通</cityName>
+</江苏>
+<江苏>
+  <cityCode>320601</cityCode>
+  <cityName>如皋</cityName>
+</江苏>
+<江苏>
+  <cityCode>320602</cityCode>
+  <cityName>海门</cityName>
+</江苏>
+<江苏>
+  <cityCode>320603</cityCode>
+  <cityName>启东</cityName>
+</江苏>
+<江苏>
+  <cityCode>320700</cityCode>
+  <cityName>连云港</cityName>
+</江苏>
+<江苏>
+  <cityCode>320900</cityCode>
+  <cityName>盐城</cityName>
+</江苏>
+<江苏>
+  <cityCode>320901</cityCode>
+  <cityName>东台</cityName>
+</江苏>
+<江苏>
+  <cityCode>320902</cityCode>
+  <cityName>大丰</cityName>
+</江苏>
+<江苏>
+  <cityCode>321000</cityCode>
+  <cityName>扬州</cityName>
+</江苏>
+<江苏>
+  <cityCode>321001</cityCode>
+  <cityName>高邮</cityName>
+</江苏>
+<江苏>
+  <cityCode>321002</cityCode>
+  <cityName>仪征</cityName>
+</江苏>
+<江苏>
+  <cityCode>321100</cityCode>
+  <cityName>镇江</cityName>
+</江苏>
+<江苏>
+  <cityCode>321101</cityCode>
+  <cityName>丹阳</cityName>
+</江苏>
+<江苏>
+  <cityCode>321102</cityCode>
+  <cityName>扬中</cityName>
+</江苏>
+<江苏>
+  <cityCode>321103</cityCode>
+  <cityName>句容</cityName>
+</江苏>
+<浙江>
+  <cityCode>330100</cityCode>
+  <cityName>杭州</cityName>
+</浙江>
+<浙江>
+  <cityCode>330101</cityCode>
+  <cityName>建德</cityName>
+</浙江>
+<浙江>
+  <cityCode>330102</cityCode>
+  <cityName>富阳</cityName>
+</浙江>
+<浙江>
+  <cityCode>330103</cityCode>
+  <cityName>临安</cityName>
+</浙江>
+<浙江>
+  <cityCode>330200</cityCode>
+  <cityName>宁波</cityName>
+</浙江>
+<浙江>
+  <cityCode>330201</cityCode>
+  <cityName>余姚</cityName>
+</浙江>
+<浙江>
+  <cityCode>330202</cityCode>
+  <cityName>慈溪</cityName>
+</浙江>
+<浙江>
+  <cityCode>330203</cityCode>
+  <cityName>奉化</cityName>
+</浙江>
+<浙江>
+  <cityCode>330300</cityCode>
+  <cityName>温州</cityName>
+</浙江>
+<浙江>
+  <cityCode>330301</cityCode>
+  <cityName>瑞安</cityName>
+</浙江>
+<浙江>
+  <cityCode>330302</cityCode>
+  <cityName>乐清</cityName>
+</浙江>
+<浙江>
+  <cityCode>330400</cityCode>
+  <cityName>嘉兴</cityName>
+</浙江>
+<浙江>
+  <cityCode>330401</cityCode>
+  <cityName>海宁</cityName>
+</浙江>
+<浙江>
+  <cityCode>330402</cityCode>
+  <cityName>平湖</cityName>
+</浙江>
+<浙江>
+  <cityCode>330403</cityCode>
+  <cityName>桐乡</cityName>
+</浙江>
+<浙江>
+  <cityCode>330500</cityCode>
+  <cityName>湖州</cityName>
+</浙江>
+<浙江>
+  <cityCode>330600</cityCode>
+  <cityName>绍兴</cityName>
+</浙江>
+<浙江>
+  <cityCode>330601</cityCode>
+  <cityName>诸暨</cityName>
+</浙江>
+<浙江>
+  <cityCode>330602</cityCode>
+  <cityName>嵊州</cityName>
+</浙江>
+<浙江>
+  <cityCode>330700</cityCode>
+  <cityName>金华</cityName>
+</浙江>
+<浙江>
+  <cityCode>330701</cityCode>
+  <cityName>兰溪</cityName>
+</浙江>
+<浙江>
+  <cityCode>330702</cityCode>
+  <cityName>东阳</cityName>
+</浙江>
+<浙江>
+  <cityCode>330703</cityCode>
+  <cityName>永康</cityName>
+</浙江>
+<浙江>
+  <cityCode>330800</cityCode>
+  <cityName>衢州</cityName>
+</浙江>
+<浙江>
+  <cityCode>330801</cityCode>
+  <cityName>江山</cityName>
+</浙江>
+<浙江>
+  <cityCode>330900</cityCode>
+  <cityName>舟山</cityName>
+</浙江>
+<浙江>
+  <cityCode>331000</cityCode>
+  <cityName>台州</cityName>
+</浙江>
+<浙江>
+  <cityCode>331001</cityCode>
+  <cityName>温岭</cityName>
+</浙江>
+<浙江>
+  <cityCode>331002</cityCode>
+  <cityName>临海</cityName>
+</浙江>
+<浙江>
+  <cityCode>331100</cityCode>
+  <cityName>丽水</cityName>
+</浙江>
+<浙江>
+  <cityCode>331101</cityCode>
+  <cityName>龙泉</cityName>
+</浙江>
+<安徽>
+  <cityCode>340100</cityCode>
+  <cityName>合肥</cityName>
+</安徽>
+<安徽>
+  <cityCode>340101</cityCode>
+  <cityName>巢湖</cityName>
+</安徽>
+<安徽>
+  <cityCode>340200</cityCode>
+  <cityName>芜湖</cityName>
+</安徽>
+<安徽>
+  <cityCode>340300</cityCode>
+  <cityName>蚌埠</cityName>
+</安徽>
+<安徽>
+  <cityCode>340400</cityCode>
+  <cityName>淮南</cityName>
+</安徽>
+<安徽>
+  <cityCode>340500</cityCode>
+  <cityName>马鞍山</cityName>
+</安徽>
+<安徽>
+  <cityCode>340600</cityCode>
+  <cityName>淮北</cityName>
+</安徽>
+<安徽>
+  <cityCode>340700</cityCode>
+  <cityName>铜陵</cityName>
+</安徽>
+<安徽>
+  <cityCode>340800</cityCode>
+  <cityName>安庆</cityName>
+</安徽>
+<安徽>
+  <cityCode>340801</cityCode>
+  <cityName>桐城</cityName>
+</安徽>
+<安徽>
+  <cityCode>341000</cityCode>
+  <cityName>黄山</cityName>
+</安徽>
+<安徽>
+  <cityCode>341100</cityCode>
+  <cityName>滁州</cityName>
+</安徽>
+<安徽>
+  <cityCode>341101</cityCode>
+  <cityName>天长</cityName>
+</安徽>
+<安徽>
+  <cityCode>341102</cityCode>
+  <cityName>明光</cityName>
+</安徽>
+<安徽>
+  <cityCode>341200</cityCode>
+  <cityName>阜阳</cityName>
+</安徽>
+<安徽>
+  <cityCode>341201</cityCode>
+  <cityName>界首</cityName>
+</安徽>
+<安徽>
+  <cityCode>341300</cityCode>
+  <cityName>宿州</cityName>
+</安徽>
+<安徽>
+  <cityCode>341400</cityCode>
+  <cityName>巢湖</cityName>
+</安徽>
+<安徽>
+  <cityCode>341500</cityCode>
+  <cityName>六安</cityName>
+</安徽>
+<安徽>
+  <cityCode>341600</cityCode>
+  <cityName>亳州</cityName>
+</安徽>
+<安徽>
+  <cityCode>341700</cityCode>
+  <cityName>池州</cityName>
+</安徽>
+<安徽>
+  <cityCode>341800</cityCode>
+  <cityName>宣城</cityName>
+</安徽>
+<安徽>
+  <cityCode>341801</cityCode>
+  <cityName>宁国</cityName>
+</安徽>
+<福建>
+  <cityCode>350100</cityCode>
+  <cityName>福州</cityName>
+</福建>
+<福建>
+  <cityCode>350101</cityCode>
+  <cityName>福清</cityName>
+</福建>
+<福建>
+  <cityCode>350102</cityCode>
+  <cityName>长乐</cityName>
+</福建>
+<福建>
+  <cityCode>350200</cityCode>
+  <cityName>厦门</cityName>
+</福建>
+<福建>
+  <cityCode>350300</cityCode>
+  <cityName>莆田</cityName>
+</福建>
+<福建>
+  <cityCode>350400</cityCode>
+  <cityName>三明</cityName>
+</福建>
+<福建>
+  <cityCode>350401</cityCode>
+  <cityName>永安</cityName>
+</福建>
+<福建>
+  <cityCode>350500</cityCode>
+  <cityName>泉州</cityName>
+</福建>
+<福建>
+  <cityCode>350501</cityCode>
+  <cityName>石狮</cityName>
+</福建>
+<福建>
+  <cityCode>350502</cityCode>
+  <cityName>晋江</cityName>
+</福建>
+<福建>
+  <cityCode>350503</cityCode>
+  <cityName>南安</cityName>
+</福建>
+<福建>
+  <cityCode>350600</cityCode>
+  <cityName>漳州</cityName>
+</福建>
+<福建>
+  <cityCode>350601</cityCode>
+  <cityName>龙海</cityName>
+</福建>
+<福建>
+  <cityCode>350700</cityCode>
+  <cityName>南平</cityName>
+</福建>
+<福建>
+  <cityCode>350701</cityCode>
+  <cityName>邵武</cityName>
+</福建>
+<福建>
+  <cityCode>350702</cityCode>
+  <cityName>武夷山</cityName>
+</福建>
+<福建>
+  <cityCode>350703</cityCode>
+  <cityName>建瓯</cityName>
+</福建>
+<福建>
+  <cityCode>350704</cityCode>
+  <cityName>建阳</cityName>
+</福建>
+<福建>
+  <cityCode>350800</cityCode>
+  <cityName>龙岩</cityName>
+</福建>
+<福建>
+  <cityCode>350801</cityCode>
+  <cityName>漳平</cityName>
+</福建>
+<福建>
+  <cityCode>350900</cityCode>
+  <cityName>宁德</cityName>
+</福建>
+<福建>
+  <cityCode>350901</cityCode>
+  <cityName>福安</cityName>
+</福建>
+<福建>
+  <cityCode>350902</cityCode>
+  <cityName>福鼎</cityName>
+</福建>
+<山东>
+  <cityCode>370100</cityCode>
+  <cityName>济南</cityName>
+</山东>
+<山东>
+  <cityCode>370101</cityCode>
+  <cityName>章丘</cityName>
+</山东>
+<山东>
+  <cityCode>370200</cityCode>
+  <cityName>青岛</cityName>
+</山东>
+<山东>
+  <cityCode>370201</cityCode>
+  <cityName>即墨</cityName>
+</山东>
+<山东>
+  <cityCode>370202</cityCode>
+  <cityName>胶州</cityName>
+</山东>
+<山东>
+  <cityCode>370203</cityCode>
+  <cityName>平度</cityName>
+</山东>
+<山东>
+  <cityCode>370204</cityCode>
+  <cityName>莱西</cityName>
+</山东>
+<山东>
+  <cityCode>370300</cityCode>
+  <cityName>淄博</cityName>
+</山东>
+<山东>
+  <cityCode>370400</cityCode>
+  <cityName>枣庄</cityName>
+</山东>
+<山东>
+  <cityCode>370401</cityCode>
+  <cityName>滕州</cityName>
+</山东>
+<山东>
+  <cityCode>370500</cityCode>
+  <cityName>东营</cityName>
+</山东>
+<山东>
+  <cityCode>370600</cityCode>
+  <cityName>烟台</cityName>
+</山东>
+<山东>
+  <cityCode>370601</cityCode>
+  <cityName>龙口</cityName>
+</山东>
+<山东>
+  <cityCode>370602</cityCode>
+  <cityName>莱阳</cityName>
+</山东>
+<山东>
+  <cityCode>370603</cityCode>
+  <cityName>莱州</cityName>
+</山东>
+<山东>
+  <cityCode>370604</cityCode>
+  <cityName>蓬莱</cityName>
+</山东>
+<山东>
+  <cityCode>370605</cityCode>
+  <cityName>招远</cityName>
+</山东>
+<山东>
+  <cityCode>370606</cityCode>
+  <cityName>栖霞</cityName>
+</山东>
+<山东>
+  <cityCode>370607</cityCode>
+  <cityName>海阳</cityName>
+</山东>
+<山东>
+  <cityCode>370700</cityCode>
+  <cityName>潍坊</cityName>
+</山东>
+<山东>
+  <cityCode>370701</cityCode>
+  <cityName>青州</cityName>
+</山东>
+<山东>
+  <cityCode>370702</cityCode>
+  <cityName>诸城</cityName>
+</山东>
+<山东>
+  <cityCode>370703</cityCode>
+  <cityName>寿光</cityName>
+</山东>
+<山东>
+  <cityCode>370704</cityCode>
+  <cityName>安丘</cityName>
+</山东>
+<山东>
+  <cityCode>370705</cityCode>
+  <cityName>高密</cityName>
+</山东>
+<山东>
+  <cityCode>370706</cityCode>
+  <cityName>昌邑</cityName>
+</山东>
+<山东>
+  <cityCode>370800</cityCode>
+  <cityName>济宁</cityName>
+</山东>
+<山东>
+  <cityCode>370801</cityCode>
+  <cityName>邹城</cityName>
+</山东>
+<山东>
+  <cityCode>370802</cityCode>
+  <cityName>曲阜</cityName>
+</山东>
+<山东>
+  <cityCode>370900</cityCode>
+  <cityName>泰安</cityName>
+</山东>
+<山东>
+  <cityCode>370901</cityCode>
+  <cityName>新泰</cityName>
+</山东>
+<山东>
+  <cityCode>370902</cityCode>
+  <cityName>肥城</cityName>
+</山东>
+<山东>
+  <cityCode>371000</cityCode>
+  <cityName>威海</cityName>
+</山东>
+<山东>
+  <cityCode>371001</cityCode>
+  <cityName>文登</cityName>
+</山东>
+<山东>
+  <cityCode>371002</cityCode>
+  <cityName>荣成</cityName>
+</山东>
+<山东>
+  <cityCode>371003</cityCode>
+  <cityName>乳山</cityName>
+</山东>
+<山东>
+  <cityCode>371100</cityCode>
+  <cityName>日照</cityName>
+</山东>
+<山东>
+  <cityCode>371200</cityCode>
+  <cityName>莱芜</cityName>
+</山东>
+<山东>
+  <cityCode>371300</cityCode>
+  <cityName>临沂</cityName>
+</山东>
+<山东>
+  <cityCode>371400</cityCode>
+  <cityName>德州</cityName>
+</山东>
+<山东>
+  <cityCode>371401</cityCode>
+  <cityName>乐陵</cityName>
+</山东>
+<山东>
+  <cityCode>371402</cityCode>
+  <cityName>禹城</cityName>
+</山东>
+<山东>
+  <cityCode>371500</cityCode>
+  <cityName>聊城</cityName>
+</山东>
+<山东>
+  <cityCode>371501</cityCode>
+  <cityName>临清</cityName>
+</山东>
+<山东>
+  <cityCode>371600</cityCode>
+  <cityName>滨州</cityName>
+</山东>
+<山东>
+  <cityCode>371700</cityCode>
+  <cityName>菏泽</cityName>
+</山东>
+<河南>
+  <cityCode>410100</cityCode>
+  <cityName>郑州</cityName>
+</河南>
+<河南>
+  <cityCode>410101</cityCode>
+  <cityName>新郑</cityName>
+</河南>
+<河南>
+  <cityCode>410102</cityCode>
+  <cityName>登封</cityName>
+</河南>
+<河南>
+  <cityCode>410103</cityCode>
+  <cityName>新密</cityName>
+</河南>
+<河南>
+  <cityCode>410104</cityCode>
+  <cityName>荥阳</cityName>
+</河南>
+<河南>
+  <cityCode>410200</cityCode>
+  <cityName>开封</cityName>
+</河南>
+<河南>
+  <cityCode>410300</cityCode>
+  <cityName>洛阳</cityName>
+</河南>
+<河南>
+  <cityCode>410301</cityCode>
+  <cityName>偃师</cityName>
+</河南>
+<河南>
+  <cityCode>410500</cityCode>
+  <cityName>安阳</cityName>
+</河南>
+<河南>
+  <cityCode>410501</cityCode>
+  <cityName>林州</cityName>
+</河南>
+<河南>
+  <cityCode>410600</cityCode>
+  <cityName>鹤壁</cityName>
+</河南>
+<河南>
+  <cityCode>410700</cityCode>
+  <cityName>新乡</cityName>
+</河南>
+<河南>
+  <cityCode>410701</cityCode>
+  <cityName>卫辉</cityName>
+</河南>
+<河南>
+  <cityCode>410702</cityCode>
+  <cityName>辉县</cityName>
+</河南>
+<河南>
+  <cityCode>410800</cityCode>
+  <cityName>焦作</cityName>
+</河南>
+<河南>
+  <cityCode>410801</cityCode>
+  <cityName>沁阳</cityName>
+</河南>
+<河南>
+  <cityCode>410802</cityCode>
+  <cityName>孟州</cityName>
+</河南>
+<河南>
+  <cityCode>410900</cityCode>
+  <cityName>濮阳</cityName>
+</河南>
+<河南>
+  <cityCode>411000</cityCode>
+  <cityName>许昌</cityName>
+</河南>
+<河南>
+  <cityCode>411001</cityCode>
+  <cityName>禹州</cityName>
+</河南>
+<河南>
+  <cityCode>411002</cityCode>
+  <cityName>长葛</cityName>
+</河南>
+<河南>
+  <cityCode>411200</cityCode>
+  <cityName>三门峡</cityName>
+</河南>
+<河南>
+  <cityCode>411201</cityCode>
+  <cityName>义马</cityName>
+</河南>
+<河南>
+  <cityCode>411202</cityCode>
+  <cityName>灵宝</cityName>
+</河南>
+<河南>
+  <cityCode>411300</cityCode>
+  <cityName>南阳</cityName>
+</河南>
+<河南>
+  <cityCode>411400</cityCode>
+  <cityName>商丘</cityName>
+</河南>
+<河南>
+  <cityCode>411600</cityCode>
+  <cityName>周口</cityName>
+</河南>
+<河南>
+  <cityCode>411601</cityCode>
+  <cityName>项城</cityName>
+</河南>
+<河南>
+  <cityCode>411700</cityCode>
+  <cityName>驻马店</cityName>
+</河南>
+<湖北>
+  <cityCode>420100</cityCode>
+  <cityName>武汉</cityName>
+</湖北>
+<湖北>
+  <cityCode>420200</cityCode>
+  <cityName>黄石</cityName>
+</湖北>
+<湖北>
+  <cityCode>420201</cityCode>
+  <cityName>大冶</cityName>
+</湖北>
+<湖北>
+  <cityCode>420300</cityCode>
+  <cityName>十堰</cityName>
+</湖北>
+<湖北>
+  <cityCode>420301</cityCode>
+  <cityName>丹江口</cityName>
+</湖北>
+<湖北>
+  <cityCode>420500</cityCode>
+  <cityName>宜昌</cityName>
+</湖北>
+<湖北>
+  <cityCode>420501</cityCode>
+  <cityName>宜都</cityName>
+</湖北>
+<湖北>
+  <cityCode>420502</cityCode>
+  <cityName>当阳</cityName>
+</湖北>
+<湖北>
+  <cityCode>420503</cityCode>
+  <cityName>枝江</cityName>
+</湖北>
+<湖北>
+  <cityCode>420600</cityCode>
+  <cityName>襄阳</cityName>
+</湖北>
+<湖北>
+  <cityCode>420700</cityCode>
+  <cityName>鄂州</cityName>
+</湖北>
+<湖北>
+  <cityCode>420800</cityCode>
+  <cityName>荆门</cityName>
+</湖北>
+<湖北>
+  <cityCode>420801</cityCode>
+  <cityName>钟祥</cityName>
+</湖北>
+<湖北>
+  <cityCode>420900</cityCode>
+  <cityName>孝感</cityName>
+</湖北>
+<湖北>
+  <cityCode>420901</cityCode>
+  <cityName>应城</cityName>
+</湖北>
+<湖北>
+  <cityCode>420902</cityCode>
+  <cityName>安陆</cityName>
+</湖北>
+<湖北>
+  <cityCode>420903</cityCode>
+  <cityName>汉川</cityName>
+</湖北>
+<湖北>
+  <cityCode>421000</cityCode>
+  <cityName>荆州</cityName>
+</湖北>
+<湖北>
+  <cityCode>421001</cityCode>
+  <cityName>石首</cityName>
+</湖北>
+<湖北>
+  <cityCode>421002</cityCode>
+  <cityName>洪湖</cityName>
+</湖北>
+<湖北>
+  <cityCode>421003</cityCode>
+  <cityName>松滋</cityName>
+</湖北>
+<湖北>
+  <cityCode>421100</cityCode>
+  <cityName>黄冈</cityName>
+</湖北>
+<湖北>
+  <cityCode>421101</cityCode>
+  <cityName>麻城</cityName>
+</湖北>
+<湖北>
+  <cityCode>421102</cityCode>
+  <cityName>武穴</cityName>
+</湖北>
+<湖北>
+  <cityCode>421200</cityCode>
+  <cityName>咸宁</cityName>
+</湖北>
+<湖北>
+  <cityCode>421201</cityCode>
+  <cityName>赤壁</cityName>
+</湖北>
+<湖北>
+  <cityCode>421300</cityCode>
+  <cityName>随州</cityName>
+</湖北>
+<湖北>
+  <cityCode>421301</cityCode>
+  <cityName>广水</cityName>
+</湖北>
+<湖北>
+  <cityCode>422800</cityCode>
+  <cityName>恩施</cityName>
+</湖北>
+<湖北>
+  <cityCode>429004</cityCode>
+  <cityName>仙桃</cityName>
+</湖北>
+<湖北>
+  <cityCode>429005</cityCode>
+  <cityName>潜江</cityName>
+</湖北>
+<湖北>
+  <cityCode>429006</cityCode>
+  <cityName>天门</cityName>
+</湖北>
+<湖北>
+  <cityCode>429021</cityCode>
+  <cityName>神农架林区</cityName>
+</湖北>
+<湖南>
+  <cityCode>430200</cityCode>
+  <cityName>株洲</cityName>
+</湖南>
+<湖南>
+  <cityCode>430201</cityCode>
+  <cityName>醴陵</cityName>
+</湖南>
+<湖南>
+  <cityCode>430400</cityCode>
+  <cityName>衡阳</cityName>
+</湖南>
+<湖南>
+  <cityCode>430401</cityCode>
+  <cityName>耒阳</cityName>
+</湖南>
+<湖南>
+  <cityCode>430402</cityCode>
+  <cityName>常宁</cityName>
+</湖南>
+<湖南>
+  <cityCode>430900</cityCode>
+  <cityName>益阳</cityName>
+</湖南>
+<湖南>
+  <cityCode>430901</cityCode>
+  <cityName>沅江</cityName>
+</湖南>
+<广东>
+  <cityCode>440100</cityCode>
+  <cityName>广州</cityName>
+</广东>
+<广东>
+  <cityCode>440200</cityCode>
+  <cityName>韶关</cityName>
+</广东>
+<广东>
+  <cityCode>440201</cityCode>
+  <cityName>乐昌</cityName>
+</广东>
+<广东>
+  <cityCode>440202</cityCode>
+  <cityName>南雄</cityName>
+</广东>
+<广东>
+  <cityCode>440300</cityCode>
+  <cityName>深圳</cityName>
+</广东>
+<广东>
+  <cityCode>440400</cityCode>
+  <cityName>珠海</cityName>
+</广东>
+<广东>
+  <cityCode>440500</cityCode>
+  <cityName>汕头</cityName>
+</广东>
+<广东>
+  <cityCode>440600</cityCode>
+  <cityName>佛山</cityName>
+</广东>
+<广东>
+  <cityCode>440700</cityCode>
+  <cityName>江门</cityName>
+</广东>
+<广东>
+  <cityCode>440701</cityCode>
+  <cityName>台山</cityName>
+</广东>
+<广东>
+  <cityCode>440702</cityCode>
+  <cityName>开平</cityName>
+</广东>
+<广东>
+  <cityCode>440703</cityCode>
+  <cityName>鹤山</cityName>
+</广东>
+<广东>
+  <cityCode>440704</cityCode>
+  <cityName>恩平</cityName>
+</广东>
+<广东>
+  <cityCode>440800</cityCode>
+  <cityName>湛江</cityName>
+</广东>
+<广东>
+  <cityCode>440801</cityCode>
+  <cityName>吴川</cityName>
+</广东>
+<广东>
+  <cityCode>440802</cityCode>
+  <cityName>雷州</cityName>
+</广东>
+<广东>
+  <cityCode>440803</cityCode>
+  <cityName>廉江</cityName>
+</广东>
+<广东>
+  <cityCode>440900</cityCode>
+  <cityName>茂名</cityName>
+</广东>
+<广东>
+  <cityCode>440901</cityCode>
+  <cityName>高州</cityName>
+</广东>
+<广东>
+  <cityCode>440902</cityCode>
+  <cityName>化州</cityName>
+</广东>
+<广东>
+  <cityCode>440903</cityCode>
+  <cityName>信宜</cityName>
+</广东>
+<广东>
+  <cityCode>441200</cityCode>
+  <cityName>肇庆</cityName>
+</广东>
+<广东>
+  <cityCode>441201</cityCode>
+  <cityName>高要</cityName>
+</广东>
+<广东>
+  <cityCode>441202</cityCode>
+  <cityName>四会</cityName>
+</广东>
+<广东>
+  <cityCode>441300</cityCode>
+  <cityName>惠州</cityName>
+</广东>
+<广东>
+  <cityCode>441400</cityCode>
+  <cityName>梅州</cityName>
+</广东>
+<广东>
+  <cityCode>441401</cityCode>
+  <cityName>兴宁</cityName>
+</广东>
+<广东>
+  <cityCode>441500</cityCode>
+  <cityName>汕尾</cityName>
+</广东>
+<广东>
+  <cityCode>441501</cityCode>
+  <cityName>陆丰</cityName>
+</广东>
+<广东>
+  <cityCode>441600</cityCode>
+  <cityName>河源</cityName>
+</广东>
+<广东>
+  <cityCode>441700</cityCode>
+  <cityName>阳江</cityName>
+</广东>
+<广东>
+  <cityCode>441701</cityCode>
+  <cityName>阳春</cityName>
+</广东>
+<广东>
+  <cityCode>441800</cityCode>
+  <cityName>清远</cityName>
+</广东>
+<广东>
+  <cityCode>441801</cityCode>
+  <cityName>英德</cityName>
+</广东>
+<广东>
+  <cityCode>441802</cityCode>
+  <cityName>连州</cityName>
+</广东>
+<广东>
+  <cityCode>441900</cityCode>
+  <cityName>东莞</cityName>
+</广东>
+<广东>
+  <cityCode>442000</cityCode>
+  <cityName>中山</cityName>
+</广东>
+<广东>
+  <cityCode>445100</cityCode>
+  <cityName>潮州</cityName>
+</广东>
+<广东>
+  <cityCode>445200</cityCode>
+  <cityName>揭阳</cityName>
+</广东>
+<广东>
+  <cityCode>445201</cityCode>
+  <cityName>普宁</cityName>
+</广东>
+<广东>
+  <cityCode>445300</cityCode>
+  <cityName>云浮</cityName>
+</广东>
+<广东>
+  <cityCode>445301</cityCode>
+  <cityName>罗定</cityName>
+</广东>
+<海南>
+  <cityCode>460100</cityCode>
+  <cityName>海口</cityName>
+</海南>
+<海南>
+  <cityCode>460200</cityCode>
+  <cityName>三亚</cityName>
+</海南>
+<海南>
+  <cityCode>468000</cityCode>
+  <cityName>三沙</cityName>
+</海南>
+<海南>
+  <cityCode>469000</cityCode>
+  <cityName>省直辖县级行政单位</cityName>
+</海南>
+<四川>
+  <cityCode>510100</cityCode>
+  <cityName>成都</cityName>
+</四川>
+<四川>
+  <cityCode>510101</cityCode>
+  <cityName>都江堰</cityName>
+</四川>
+<四川>
+  <cityCode>510102</cityCode>
+  <cityName>彭州</cityName>
+</四川>
+<四川>
+  <cityCode>510103</cityCode>
+  <cityName>崇州</cityName>
+</四川>
+<四川>
+  <cityCode>510104</cityCode>
+  <cityName>邛崃</cityName>
+</四川>
+<四川>
+  <cityCode>510300</cityCode>
+  <cityName>自贡</cityName>
+</四川>
+<四川>
+  <cityCode>510400</cityCode>
+  <cityName>攀枝花</cityName>
+</四川>
+<四川>
+  <cityCode>510500</cityCode>
+  <cityName>泸州</cityName>
+</四川>
+<四川>
+  <cityCode>510600</cityCode>
+  <cityName>德阳</cityName>
+</四川>
+<四川>
+  <cityCode>510601</cityCode>
+  <cityName>广汉</cityName>
+</四川>
+<四川>
+  <cityCode>510602</cityCode>
+  <cityName>什邡</cityName>
+</四川>
+<四川>
+  <cityCode>510603</cityCode>
+  <cityName>绵竹</cityName>
+</四川>
+<四川>
+  <cityCode>510700</cityCode>
+  <cityName>绵阳</cityName>
+</四川>
+<四川>
+  <cityCode>510701</cityCode>
+  <cityName>江油</cityName>
+</四川>
+<四川>
+  <cityCode>510800</cityCode>
+  <cityName>广元</cityName>
+</四川>
+<四川>
+  <cityCode>510900</cityCode>
+  <cityName>遂宁</cityName>
+</四川>
+<四川>
+  <cityCode>511000</cityCode>
+  <cityName>内江</cityName>
+</四川>
+<四川>
+  <cityCode>511100</cityCode>
+  <cityName>乐山</cityName>
+</四川>
+<四川>
+  <cityCode>511101</cityCode>
+  <cityName>峨眉山</cityName>
+</四川>
+<四川>
+  <cityCode>511300</cityCode>
+  <cityName>南充</cityName>
+</四川>
+<四川>
+  <cityCode>511301</cityCode>
+  <cityName>阆中</cityName>
+</四川>
+<四川>
+  <cityCode>511400</cityCode>
+  <cityName>眉山</cityName>
+</四川>
+<四川>
+  <cityCode>511500</cityCode>
+  <cityName>宜宾</cityName>
+</四川>
+<四川>
+  <cityCode>511600</cityCode>
+  <cityName>广安</cityName>
+</四川>
+<四川>
+  <cityCode>511601</cityCode>
+  <cityName>华蓥</cityName>
+</四川>
+<四川>
+  <cityCode>511700</cityCode>
+  <cityName>达州</cityName>
+</四川>
+<四川>
+  <cityCode>511701</cityCode>
+  <cityName>万源</cityName>
+</四川>
+<四川>
+  <cityCode>511800</cityCode>
+  <cityName>雅安</cityName>
+</四川>
+<四川>
+  <cityCode>511900</cityCode>
+  <cityName>巴中</cityName>
+</四川>
+<四川>
+  <cityCode>512000</cityCode>
+  <cityName>资阳</cityName>
+</四川>
+<四川>
+  <cityCode>512001</cityCode>
+  <cityName>简阳</cityName>
+</四川>
+<四川>
+  <cityCode>513200</cityCode>
+  <cityName>阿坝</cityName>
+</四川>
+<四川>
+  <cityCode>513300</cityCode>
+  <cityName>甘孜</cityName>
+</四川>
+<四川>
+  <cityCode>513400</cityCode>
+  <cityName>凉山</cityName>
+</四川>
+<四川>
+  <cityCode>513401</cityCode>
+  <cityName>西昌</cityName>
+</四川>
+<贵州>
+  <cityCode>520100</cityCode>
+  <cityName>贵阳</cityName>
+</贵州>
+<贵州>
+  <cityCode>520101</cityCode>
+  <cityName>清镇</cityName>
+</贵州>
+<贵州>
+  <cityCode>520200</cityCode>
+  <cityName>六盘水</cityName>
+</贵州>
+<贵州>
+  <cityCode>520300</cityCode>
+  <cityName>遵义</cityName>
+</贵州>
+<贵州>
+  <cityCode>520301</cityCode>
+  <cityName>赤水</cityName>
+</贵州>
+<贵州>
+  <cityCode>520400</cityCode>
+  <cityName>安顺</cityName>
+</贵州>
+<贵州>
+  <cityCode>522200</cityCode>
+  <cityName>铜仁</cityName>
+</贵州>
+<贵州>
+  <cityCode>522300</cityCode>
+  <cityName>黔西</cityName>
+</贵州>
+<贵州>
+  <cityCode>522400</cityCode>
+  <cityName>毕节</cityName>
+</贵州>
+<贵州>
+  <cityCode>522600</cityCode>
+  <cityName>黔东南</cityName>
+</贵州>
+<贵州>
+  <cityCode>522601</cityCode>
+  <cityName>凯里</cityName>
+</贵州>
+<贵州>
+  <cityCode>522700</cityCode>
+  <cityName>黔南</cityName>
+</贵州>
+<贵州>
+  <cityCode>522701</cityCode>
+  <cityName>都匀</cityName>
+</贵州>
+<贵州>
+  <cityCode>522702</cityCode>
+  <cityName>福泉</cityName>
+</贵州>
+<云南>
+  <cityCode>530100</cityCode>
+  <cityName>昆明</cityName>
+</云南>
+<云南>
+  <cityCode>530101</cityCode>
+  <cityName>安宁</cityName>
+</云南>
+<云南>
+  <cityCode>530300</cityCode>
+  <cityName>曲靖</cityName>
+</云南>
+<云南>
+  <cityCode>530301</cityCode>
+  <cityName>宣威</cityName>
+</云南>
+<云南>
+  <cityCode>530400</cityCode>
+  <cityName>玉溪</cityName>
+</云南>
+<云南>
+  <cityCode>530500</cityCode>
+  <cityName>保山</cityName>
+</云南>
+<云南>
+  <cityCode>530600</cityCode>
+  <cityName>昭通</cityName>
+</云南>
+<云南>
+  <cityCode>530700</cityCode>
+  <cityName>丽江</cityName>
+</云南>
+<云南>
+  <cityCode>530800</cityCode>
+  <cityName>思茅</cityName>
+</云南>
+<云南>
+  <cityCode>530900</cityCode>
+  <cityName>临沧</cityName>
+</云南>
+<云南>
+  <cityCode>532300</cityCode>
+  <cityName>楚雄</cityName>
+</云南>
+<云南>
+  <cityCode>532500</cityCode>
+  <cityName>红河</cityName>
+</云南>
+<云南>
+  <cityCode>532501</cityCode>
+  <cityName>蒙自</cityName>
+</云南>
+<云南>
+  <cityCode>532502</cityCode>
+  <cityName>个旧</cityName>
+</云南>
+<云南>
+  <cityCode>532503</cityCode>
+  <cityName>开远</cityName>
+</云南>
+<云南>
+  <cityCode>532504</cityCode>
+  <cityName>弥勒</cityName>
+</云南>
+<云南>
+  <cityCode>532600</cityCode>
+  <cityName>文山</cityName>
+</云南>
+<云南>
+  <cityCode>532700</cityCode>
+  <cityName>普洱</cityName>
+</云南>
+<云南>
+  <cityCode>532800</cityCode>
+  <cityName>西双版纳</cityName>
+</云南>
+<云南>
+  <cityCode>532900</cityCode>
+  <cityName>大理</cityName>
+</云南>
+<云南>
+  <cityCode>533100</cityCode>
+  <cityName>德宏</cityName>
+</云南>
+<云南>
+  <cityCode>533101</cityCode>
+  <cityName>瑞丽</cityName>
+</云南>
+<云南>
+  <cityCode>533300</cityCode>
+  <cityName>怒江</cityName>
+</云南>
+<云南>
+  <cityCode>533400</cityCode>
+  <cityName>迪庆</cityName>
+</云南>
+<陕西>
+  <cityCode>610100</cityCode>
+  <cityName>西安</cityName>
+</陕西>
+<陕西>
+  <cityCode>610200</cityCode>
+  <cityName>铜川</cityName>
+</陕西>
+<陕西>
+  <cityCode>610300</cityCode>
+  <cityName>宝鸡</cityName>
+</陕西>
+<陕西>
+  <cityCode>610400</cityCode>
+  <cityName>咸阳</cityName>
+</陕西>
+<陕西>
+  <cityCode>610401</cityCode>
+  <cityName>兴平</cityName>
+</陕西>
+<陕西>
+  <cityCode>610500</cityCode>
+  <cityName>渭南</cityName>
+</陕西>
+<陕西>
+  <cityCode>610501</cityCode>
+  <cityName>韩城</cityName>
+</陕西>
+<陕西>
+  <cityCode>610502</cityCode>
+  <cityName>华阴</cityName>
+</陕西>
+<陕西>
+  <cityCode>610600</cityCode>
+  <cityName>延安</cityName>
+</陕西>
+<陕西>
+  <cityCode>610700</cityCode>
+  <cityName>汉中</cityName>
+</陕西>
+<陕西>
+  <cityCode>610800</cityCode>
+  <cityName>榆林</cityName>
+</陕西>
+<陕西>
+  <cityCode>610900</cityCode>
+  <cityName>安康</cityName>
+</陕西>
+<陕西>
+  <cityCode>611000</cityCode>
+  <cityName>商洛</cityName>
+</陕西>
+<甘肃>
+  <cityCode>620100</cityCode>
+  <cityName>兰州</cityName>
+</甘肃>
+<甘肃>
+  <cityCode>620200</cityCode>
+  <cityName>嘉峪关</cityName>
+</甘肃>
+<甘肃>
+  <cityCode>620300</cityCode>
+  <cityName>金昌</cityName>
+</甘肃>
+<甘肃>
+  <cityCode>620400</cityCode>
+  <cityName>白银</cityName>
+</甘肃>
+<甘肃>
+  <cityCode>620500</cityCode>
+  <cityName>天水</cityName>
+</甘肃>
+<甘肃>
+  <cityCode>620600</cityCode>
+  <cityName>武威</cityName>
+</甘肃>
+<甘肃>
+  <cityCode>620700</cityCode>
+  <cityName>张掖</cityName>
+</甘肃>
+<甘肃>
+  <cityCode>620800</cityCode>
+  <cityName>平凉</cityName>
+</甘肃>
+<甘肃>
+  <cityCode>620900</cityCode>
+  <cityName>酒泉</cityName>
+</甘肃>
+<甘肃>
+  <cityCode>621000</cityCode>
+  <cityName>庆阳</cityName>
+</甘肃>
+<甘肃>
+  <cityCode>621100</cityCode>
+  <cityName>定西</cityName>
+</甘肃>
+<甘肃>
+  <cityCode>621200</cityCode>
+  <cityName>陇南</cityName>
+</甘肃>
+<甘肃>
+  <cityCode>622900</cityCode>
+  <cityName>临夏</cityName>
+</甘肃>
+<甘肃>
+  <cityCode>623000</cityCode>
+  <cityName>甘南</cityName>
+</甘肃>
+<甘肃>
+  <cityCode>623001</cityCode>
+  <cityName>合作</cityName>
+</甘肃>
+<青海>
+  <cityCode>630100</cityCode>
+  <cityName>西宁</cityName>
+</青海>
+<青海>
+  <cityCode>632100</cityCode>
+  <cityName>海东</cityName>
+</青海>
+<青海>
+  <cityCode>632200</cityCode>
+  <cityName>海北</cityName>
+</青海>
+<青海>
+  <cityCode>632300</cityCode>
+  <cityName>黄南</cityName>
+</青海>
+<青海>
+  <cityCode>632500</cityCode>
+  <cityName>海南</cityName>
+</青海>
+<青海>
+  <cityCode>632600</cityCode>
+  <cityName>果洛</cityName>
+</青海>
+<青海>
+  <cityCode>632700</cityCode>
+  <cityName>玉树</cityName>
+</青海>
+<青海>
+  <cityCode>632800</cityCode>
+  <cityName>海西</cityName>
+</青海>
+<青海>
+  <cityCode>632801</cityCode>
+  <cityName>德令哈</cityName>
+</青海>
+<青海>
+  <cityCode>632802</cityCode>
+  <cityName>格尔木</cityName>
+</青海>
+<宁夏>
+  <cityCode>640100</cityCode>
+  <cityName>银川</cityName>
+</宁夏>
+<宁夏>
+  <cityCode>640101</cityCode>
+  <cityName>灵武</cityName>
+</宁夏>
+<宁夏>
+  <cityCode>640200</cityCode>
+  <cityName>石嘴山</cityName>
+</宁夏>
+<宁夏>
+  <cityCode>640300</cityCode>
+  <cityName>吴忠</cityName>
+</宁夏>
+<宁夏>
+  <cityCode>640301</cityCode>
+  <cityName>青铜峡</cityName>
+</宁夏>
+<宁夏>
+  <cityCode>640400</cityCode>
+  <cityName>固原</cityName>
+</宁夏>
+<宁夏>
+  <cityCode>640500</cityCode>
+  <cityName>中卫</cityName>
+</宁夏>
+<新疆>
+  <cityCode>650100</cityCode>
+  <cityName>乌鲁木齐</cityName>
+</新疆>
+<新疆>
+  <cityCode>650200</cityCode>
+  <cityName>克拉玛依</cityName>
+</新疆>
+<新疆>
+  <cityCode>652100</cityCode>
+  <cityName>吐鲁番</cityName>
+</新疆>
+<新疆>
+  <cityCode>652200</cityCode>
+  <cityName>哈密</cityName>
+</新疆>
+<新疆>
+  <cityCode>652300</cityCode>
+  <cityName>昌吉</cityName>
+</新疆>
+<新疆>
+  <cityCode>652700</cityCode>
+  <cityName>博尔塔拉</cityName>
+</新疆>
+<新疆>
+  <cityCode>652701</cityCode>
+  <cityName>博乐</cityName>
+</新疆>
+<新疆>
+  <cityCode>652702</cityCode>
+  <cityName>阿拉山口</cityName>
+</新疆>
+<新疆>
+  <cityCode>652800</cityCode>
+  <cityName>巴音郭楞</cityName>
+</新疆>
+<新疆>
+  <cityCode>652801</cityCode>
+  <cityName>库尔勒</cityName>
+</新疆>
+<新疆>
+  <cityCode>652900</cityCode>
+  <cityName>阿克苏</cityName>
+</新疆>
+<新疆>
+  <cityCode>653000</cityCode>
+  <cityName>克孜勒苏</cityName>
+</新疆>
+<新疆>
+  <cityCode>653001</cityCode>
+  <cityName>阿图什</cityName>
+</新疆>
+<新疆>
+  <cityCode>653100</cityCode>
+  <cityName>喀什</cityName>
+</新疆>
+<新疆>
+  <cityCode>653200</cityCode>
+  <cityName>和田</cityName>
+</新疆>
+<新疆>
+  <cityCode>654000</cityCode>
+  <cityName>伊犁</cityName>
+</新疆>
+<新疆>
+  <cityCode>654001</cityCode>
+  <cityName>伊宁</cityName>
+</新疆>
+<新疆>
+  <cityCode>654002</cityCode>
+  <cityName>奎屯</cityName>
+</新疆>
+<新疆>
+  <cityCode>654200</cityCode>
+  <cityName>塔城</cityName>
+</新疆>
+<新疆>
+  <cityCode>654201</cityCode>
+  <cityName>乌苏</cityName>
+</新疆>
+<新疆>
+  <cityCode>654300</cityCode>
+  <cityName>阿勒泰</cityName>
+</新疆>
+<新疆>
+  <cityCode>659001</cityCode>
+  <cityName>石河子</cityName>
+</新疆>
+<新疆>
+  <cityCode>659002</cityCode>
+  <cityName>阿拉尔</cityName>
+</新疆>
+<新疆>
+  <cityCode>659003</cityCode>
+  <cityName>图木舒克</cityName>
+</新疆>
+<新疆>
+  <cityCode>659004</cityCode>
+  <cityName>五家渠</cityName>
+</新疆>
+</root>

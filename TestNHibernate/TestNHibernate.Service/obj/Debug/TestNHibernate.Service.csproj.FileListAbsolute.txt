@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\bin\Debug\TestNHibernate.Service.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\bin\Debug\TestNHibernate.Service.pdb
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\obj\Debug\TestNHibernate.Service.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\obj\Debug\TestNHibernate.Service.pdb
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\bin\Debug\FluentNHibernate.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\bin\Debug\FluentNHibernate.xml
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\bin\Debug\NHibernate.xml
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\obj\Debug\TestNHibernate.Service.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\bin\Debug\TestNHibernate.IService.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\bin\Debug\TestNHibernate.IService.pdb
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\bin\Debug\TestNHibernate.Domain.dll
+C:\Users\Administrator\Desktop\TestNHibernate\TestNHibernate.Service\bin\Debug\TestNHibernate.Domain.pdb

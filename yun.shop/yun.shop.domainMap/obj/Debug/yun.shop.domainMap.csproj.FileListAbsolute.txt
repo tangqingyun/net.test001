@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.domainMap\bin\Debug\yun.shop.domainMap.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.domainMap\bin\Debug\yun.shop.domainMap.pdb
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.domainMap\bin\Debug\yun.shop.domain.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.domainMap\bin\Debug\yun.shop.domain.pdb
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.domainMap\obj\Debug\yun.shop.domainMap.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.domainMap\obj\Debug\yun.shop.domainMap.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.domainMap\obj\Debug\yun.shop.domainMap.pdb

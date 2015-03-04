@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.resource\bin\Debug\yun.shop.resource.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.resource\bin\Debug\yun.shop.resource.pdb
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.resource\obj\Debug\yun.shop.resource.dll
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.resource\obj\Debug\yun.shop.resource.pdb
+C:\Users\Administrator\Desktop\yun.shop\yun.shop.resource\obj\Debug\yun.shop.resource.csprojResolveAssemblyReference.cache

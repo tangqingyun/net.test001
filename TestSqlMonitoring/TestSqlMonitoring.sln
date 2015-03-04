@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMonitoring.Win", "TestSqlMonitoring\SqlMonitoring.Win.csproj", "{F86C6E3E-5908-4647-ABAB-F3024F33CD21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMonitoring.Mvc", "MvcSqlMonitoring\SqlMonitoring.Mvc.csproj", "{BF9077DB-F58C-459F-B80A-A0E87BB690A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMonitoring.Services", "SqlMonitoring.Services\SqlMonitoring.Services.csproj", "{3A494ACA-E72D-43D3-9201-F0D474351E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMonitoring.Models", "SqlMonitoring.Models\SqlMonitoring.Models.csproj", "{28F4B42D-E300-4934-ABCB-EC922BEF7C57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F86C6E3E-5908-4647-ABAB-F3024F33CD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86C6E3E-5908-4647-ABAB-F3024F33CD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86C6E3E-5908-4647-ABAB-F3024F33CD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86C6E3E-5908-4647-ABAB-F3024F33CD21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9077DB-F58C-459F-B80A-A0E87BB690A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9077DB-F58C-459F-B80A-A0E87BB690A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9077DB-F58C-459F-B80A-A0E87BB690A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9077DB-F58C-459F-B80A-A0E87BB690A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A494ACA-E72D-43D3-9201-F0D474351E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A494ACA-E72D-43D3-9201-F0D474351E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A494ACA-E72D-43D3-9201-F0D474351E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A494ACA-E72D-43D3-9201-F0D474351E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F4B42D-E300-4934-ABCB-EC922BEF7C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F4B42D-E300-4934-ABCB-EC922BEF7C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F4B42D-E300-4934-ABCB-EC922BEF7C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F4B42D-E300-4934-ABCB-EC922BEF7C57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
