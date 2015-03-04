@@ -20,8 +20,8 @@ namespace AirTicket
             string url = "https://www.yongche.com/login/?source=login&done=http%3A%2F%2Fwww.yongche.com";
             IList<ParamKeyValue> list = new List<ParamKeyValue>()
             {
-                  new ParamKeyValue("email","tamny@sohu.com"),
-                  new ParamKeyValue("passwd","tangqingyun"),
+                  new ParamKeyValue("email",""),
+                  new ParamKeyValue("passwd",""),
                   new ParamKeyValue("reback","http%3A%2F%2Fdown.51cto.com"),
             };
 

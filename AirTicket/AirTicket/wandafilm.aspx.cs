@@ -18,8 +18,8 @@ namespace AirTicket
             IList<ParamKeyValue> list = new List<ParamKeyValue>() { 
                      new ParamKeyValue("autoLogin","true"),
                      new ParamKeyValue("code",""),
-                     new ParamKeyValue("email","15901473139"),
-                     new ParamKeyValue("password","a123456")
+                     new ParamKeyValue("email",""),
+                     new ParamKeyValue("password","")
              };
 
             string url = "http://www.wandafilm.com/login.do?m=ajaxLogin";

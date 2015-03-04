@@ -29,14 +29,14 @@ namespace AirTicket
 
             IList<ParamKeyValue> nlist = new List<ParamKeyValue>() { 
               new ParamKeyValue("loginRand",loginRand),
-              new ParamKeyValue("loginUser.user_name","tamny@sohu.com"),
+              new ParamKeyValue("loginUser.user_name",""),
               new ParamKeyValue("nameErrorFocus",""),
               new ParamKeyValue("passwordErrorFocus",""),
               new ParamKeyValue("randCode","5959"),
               new ParamKeyValue("randErrorFocus",""),
               new ParamKeyValue("refundFlag","Y"),
               new ParamKeyValue("refundLogin","N"),
-              new ParamKeyValue("user.password","_tamny2tamny_"),
+              new ParamKeyValue("user.password",""),
             };
           //  string nurl = "https://dynamic.12306.cn/otsweb/loginAction.do?method=login";
          //   string result = HttpHelper.Post(nurl, nlist, "", 50 * 1000, userAgent, Encoding.UTF8, null, contentType, null);

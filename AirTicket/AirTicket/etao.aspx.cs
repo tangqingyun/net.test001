@@ -19,8 +19,8 @@ namespace AirTicket
             string url = "https://login.taobao.com/member/login.jhtml";
             IList<ParamKeyValue> list = new List<ParamKeyValue>()
             {
-                  new ParamKeyValue("TPL_username","15901473139"),
-                  new ParamKeyValue("TPL_password","*tamny2tamny*"),
+                  new ParamKeyValue("TPL_username",""),
+                  new ParamKeyValue("TPL_password",""),
                   new ParamKeyValue("loginsite","0"),
                   new ParamKeyValue("newlogin",""),
                   new ParamKeyValue("TPL_redirect_url","http://login.etao.com/loginmid.html?redirect_url=http%3A%2F%2Fdianying.taobao.com%2F&"),

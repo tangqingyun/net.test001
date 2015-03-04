@@ -20,9 +20,9 @@ namespace AirTicket
             string url = "https://www.yongche.com/login/?source=login&done=http%3A%2F%2Fwww.yongche.com";
             IList<ParamKeyValue> list = new List<ParamKeyValue>()
             {
-                  new ParamKeyValue("login","15901473139"),
+                  new ParamKeyValue("login",""),
                   new ParamKeyValue("login_submit","denglu"),
-                  new ParamKeyValue("password","tangqingyun"),
+                  new ParamKeyValue("password",""),
             };
 
             CookieCollection _cookies = new CookieCollection() { 

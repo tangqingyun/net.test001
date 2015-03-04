@@ -40,8 +40,8 @@ namespace AirTicket
                      new ParamKeyValue("hdnToken","MjAxMy03LTIgMTM6MTA6MzA="),                 
                      new ParamKeyValue("hidGohome","MjAxMy03LTIgMTM6MTA6MzA="),
                      new ParamKeyValue("hidVerifyCodeLevel","N"),
-                     new ParamKeyValue("txtUserName","tqyitweb@163.com"),
-                     new ParamKeyValue("txtPwd","tangqingyun"),
+                     new ParamKeyValue("txtUserName",""),
+                     new ParamKeyValue("txtPwd",""),
                      //new ParamKeyValue("btnSubmit","登录"),
 #region ctrip
 		                    //new ParamKeyValue("hidToken","MjAxMy03LTIgMTM6MTA6MzA="),
